@@ -1,4 +1,4 @@
-FIFO_Seboui
+﻿FIFO_Seboui
 ===========
 
 Bachelorarbeit: Entwurf, Implementierung und Evaluierung einer Speicherstruktur im Xilinx B-RAM
@@ -23,4 +23,4 @@ git commit -m "_message_"
 git push origin master
 
 # Lokale Dateien updaten
-git pull origin
+git pull origin master
