@@ -1,0 +1,135 @@
+%##################################################################################
+
+\documentclass[12pt,a4paper,twoside]{report}
+%\documentclass[12pt,a4paper,oneside]{report}
+\usepackage{graphicx}
+%\usepackage[ngerman, english]{babel} %-- uncomment this to get english titles
+\usepackage{german,a4}
+%\usepackage{picins}
+%\usepackage{epsfig}
+\usepackage{fancyhdr}			% for nice header and footer
+\usepackage{hyperref}			% references in pdf
+\usepackage[sf]{titlesec}	%customization of \chapter Titles for appendices
+\usepackage{textcomp}
+\usepackage{makeidx}
+\usepackage{ngerman}			% german Umlauts
+
+
+
+%\usepackage[latin1]{inputenc}
+%\usepackage[ansinew]{inputenc}
+\usepackage[utf8]{inputenc}
+
+\usepackage{booktabs}                               % necessary for tabulars
+
+
+%\usepackage{wrapfig} 
+%\usepackage[pdftex]{graphicx}
+%\usepackage{ifthen}  
+%\usepackage{booktabs} % fancy tables
+%\usepackage[titletoc]{appendix} % custom naming of appendices
+\usepackage{amssymb, amsmath, amsthm} % for equations & eqref
+%\usepackage{listings} \lstset{basicstyle=\tiny\ttfamily, numbers=left, escapeinside={(*}{*)}, captionpos=b}
+%\usepackage{dirtree}
+
+%\theoremstyle{plain}% default
+\theoremstyle{definition}
+\newtheorem{definition}{Definition}
+
+% =====================================================
+% Macros
+% =====================================================
+
+% -- Macros ---------------------------------
+\input{00_special_pages/macros}
+
+% =====================================================
+% Dokumenten-Platzhalter
+% =====================================================
+
+% -- deutsche Version ---------------------------------
+\input{00_special_pages/platzhalter-titel}
+
+
+% ====================================================
+% Formatierung des Dokuments
+% ====================================================
+\input{00_special_pages/formats}
+
+% =====================================================
+% Inhalt der Titelseite definieren
+% =====================================================
+
+\makeindex
+
+
+\begin{document}
+
+% =====================================================
+% Put Titel in Deutsch
+% ===================================================== 
+\input{00_special_pages/titelseite}
+    \parindent=0pt
+    %\sloppypar
+    \linespread{1.2}
+    \thispagestyle{plain}
+    %\frontmatter
+    %\maketitle
+    
+% =====================================================
+% Abstract
+% =====================================================     
+	\begin{abstract}
+		\input{00_special_pages/zusammenfassung}
+	\end{abstract}
+	
+% =====================================================
+% Signaturepage
+% ===================================================== 
+    \input{00_special_pages/erklaerung}
+
+% =====================================================
+% TOC
+% ===================================================== 
+    \tableofcontents
+    \clearpage
+
+
+% =====================================================
+% Main Chapters
+% ===================================================== 
+    %\mainmatter
+    \pagenumbering{arabic}
+    \setcounter{page}{1}
+    \pagestyle{fancy}
+ \normalsize
+    
+ 
+    \label{chap:chapter1}    \input{02_chapters/chapter1.tex}
+
+    \cleardoublepage
+
+    
+% =====================================================
+% Bibliography
+% ===================================================== 
+    
+    %\addcontentsline{toc}{chapter}{Literature}
+    \bibliographystyle{alpha}    
+    % use external Bib-File, 
+		\bibliography{10_bib/standardbib}		
+		
+% =====================================================
+% Appendix
+% ===================================================== 
+    \appendix
+
+    \input{00_special_pages/anhang}
+		\clearpage
+
+    \listoftables
+    \listoffigures
+    \printindex
+
+\end{document}
+

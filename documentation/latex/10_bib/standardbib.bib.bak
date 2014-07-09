@@ -1,0 +1,3401 @@
+% This file was created with JabRef 2.4.2.
+% Encoding: Cp1252
+
+@INPROCEEDINGS{DBLP:conf/iscas/BatinaMSPV07,
+  author = {Lejla Batina and Nele Mentens and Kazuo Sakiyama and Bart Preneel
+	and Ingrid Verbauwhede},
+  title = {Public-Key Cryptography on the Top of a Needle},
+  booktitle = {ISCAS},
+  year = {2007},
+  pages = {1831-1834},
+  bibsource = {DBLP, http://dblp.uni-trier.de},
+  crossref = {DBLP:conf/iscas/2007},
+  ee = {http://doi.ieeecomputersociety.org/10.1109/ISCAS.2007.378270},
+  file = {:D\:\\035_Papers\\Crypto\\CryptoProcessors\\Public-Key Cryptography
+	on the Top of a Needle.pdf:PDF}
+}
+
+@INPROCEEDINGS{DBLP:conf/aspdac/DegalahalT05,
+  author = {Vijay Degalahal and Tim Tuan},
+  title = {Methodology for high level estimation of FPGA power consumption},
+  booktitle = {ASP-DAC},
+  year = {2005},
+  pages = {657-660},
+  bibsource = {DBLP, http://dblp.uni-trier.de},
+  crossref = {DBLP:conf/aspdac/2005},
+  ee = {http://doi.acm.org/10.1145/1120725.1120986}
+}
+
+@INPROCEEDINGS{DBLP:conf/sacrypt/FanBV08,
+  author = {Junfeng Fan and Lejla Batina and Ingrid Verbauwhede},
+  title = {HECC Goes Embedded: An Area-Efficient Implementation of HECC},
+  booktitle = {Selected Areas in Cryptography},
+  year = {2008},
+  pages = {387-400},
+  bibsource = {DBLP, http://dblp.uni-trier.de},
+  crossref = {DBLP:conf/sacrypt/2008},
+  ee = {http://dx.doi.org/10.1007/978-3-642-04159-4_25},
+  file = {:D\:\\035_Papers\\Crypto\\CryptoProcessors\\HECC Goes Embedded An
+	Area-Efficient Implementation of HECC.pdf:PDF}
+}
+
+@INPROCEEDINGS{GKS:DATE08,
+  author = {Benjamin Glas and Alexander Klimm and Oliver Sander and Klaus D.
+	M{\"u}ller-Glaser and J{\"u}rgen Becker},
+  title = {A System Architecture for Reconfigurable Trusted Platforms},
+  booktitle = {DATE},
+  year = {2008},
+  pages = {541-544},
+  bibsource = {DBLP, http://dblp.uni-trier.de},
+  crossref = {DBLP:conf/date/2008},
+  ee = {http://dx.doi.org/10.1109/DATE.2008.4484907}
+}
+
+@INPROCEEDINGS{DBLP:conf/ches/GrossschadlS04,
+  author = {Johann Gro{\ss}sch{\"a}dl and Erkay Savas},
+  title = {Instruction Set Extensions for Fast Arithmetic in Finite Fields GF(
+	p) and GF(2$^{\mbox{m}}$)},
+  booktitle = {CHES},
+  year = {2004},
+  pages = {133-147},
+  bibsource = {DBLP, http://dblp.uni-trier.de},
+  crossref = {DBLP:conf/ches/2004},
+  ee = {http://springerlink.metapress.com/openurl.asp?genre=article{\&}issn=0302-9743{\&}volume=3156{\&}spage=133},
+  file = {:D\:\\035_Papers\\Crypto\\CryptoProcessors\\Instruction Set Extensions
+	for Fast Arithmetic in Finite Fields.pdf:PDF}
+}
+
+@INPROCEEDINGS{keeloq09,
+  author = {Markus Kasper and Timo Kasper and Amir Moradi and Christof Paar},
+  title = {Breaking KeeLoq in a Flash: On Extracting Keys at Lightning Speed.},
+  booktitle = {AFRICACRYPT},
+  year = {2009},
+  editor = {Bart Preneel},
+  volume = {5580},
+  series = {Lecture Notes in Computer Science},
+  pages = {403-420},
+  publisher = {Springer},
+  crossref = {conf/africacrypt/2009},
+  date = {2009-06-24},
+  ee = {http://dx.doi.org/10.1007/978-3-642-02384-2_25},
+  interhash = {d97859d380c789173c880d94ea533436},
+  intrahash = {a02cfdc07892acab1c12d92576bda189},
+  isbn = {978-3-642-02383-5},
+  url = {http://dblp.uni-trier.de/db/conf/africacrypt/africacrypt2009.html#KasperKMP09}
+}
+
+@INPROCEEDINGS{DBLP:conf/arcs/KlimmSBS08,
+  author = {Alexander Klimm and Oliver Sander and J{\"u}rgen Becker and Sylvain
+	Subileau},
+  title = {A Hardware/Software Codesign of a Co-processor for Real-Time Hyperelliptic
+	Curve Cryptography on a Spartan3 FPGA},
+  booktitle = {ARCS},
+  year = {2008},
+  pages = {188-201},
+  bibsource = {DBLP, http://dblp.uni-trier.de},
+  crossref = {DBLP:conf/arcs/2008},
+  ee = {http://dx.doi.org/10.1007/978-3-540-78153-0_15}
+}
+
+@INPROCEEDINGS{PoppM05,
+  author = {Thomas Popp and Stefan Mangard},
+  title = {Masked Dual-Rail Pre-charge Logic: DPA-Resistance Without Routing
+	Constraints},
+  booktitle = {CHES},
+  year = {2005},
+  pages = {172-186},
+  bibsource = {DBLP, http://dblp.uni-trier.de},
+  crossref = {DBLP:conf/ches/2005},
+  ee = {http://dx.doi.org/10.1007/11545262_13},
+  file = {Masked Dual-Rail Pre-charge Logic DPA-Resistance Without Routing Constraints.pdf:D\:\\035_Papers\\Crypto\\Masked
+	Dual-Rail Pre-charge Logic DPA-Resistance Without Routing Constraints.pdf:PDF},
+  owner = {klimm}
+}
+
+@INPROCEEDINGS{Schellekens2006,
+  author = {Dries Schellekens and Bart Preneel and Ingrid Verbauwhede},
+  title = {FPGA Vendor Agnostic True Random Number Generator.},
+  booktitle = {FPL},
+  year = {2006},
+  pages = {1-6},
+  publisher = {IEEE},
+  crossref = {conf/fpl/2006},
+  date = {2007-07-19},
+  description = {dblp},
+  ee = {http://doi.ieeecomputersociety.org/10.1109/FPL.2006.311206},
+  file = {:D\:\\035_Papers\\Crypto\\RNG\\FPGA VENDOR AGNOSTIC TRUE RANDOM NUMBER
+	GENERATOR.pdf:PDF},
+  keywords = {dblp },
+  owner = {klimm},
+  url = {http://dblp.uni-trier.de/db/conf/fpl/fpl2006.html#SchellekensPV06}
+}
+
+@INPROCEEDINGS{SchellekensTP08,
+  author = {Dries Schellekens and Pim Tuyls and Bart Preneel},
+  title = {Embedded Trusted Computing with Authenticated Non-volatile Memory.},
+  booktitle = {TRUST},
+  year = {2008},
+  editor = {Peter Lipp and Ahmad-Reza Sadeghi and Klaus-Michael Koch},
+  volume = {4968},
+  series = {Lecture Notes in Computer Science},
+  pages = {60-74},
+  publisher = {Springer},
+  biburl = {http://www.bibsonomy.org/bibtex/2fdc52f4ed9c53bc3ba124e62444f8174/dblp},
+  crossref = {conf/trust/2008},
+  date = {2008-08-27},
+  description = {dblp},
+  ee = {http://dx.doi.org/10.1007/978-3-540-68979-9_5},
+  isbn = {978-3-540-68978-2},
+  keywords = {dblp},
+  owner = {klimm},
+  url = {http://dblp.uni-trier.de/db/conf/trust/trust2008.html#SchellekensTP08}
+}
+
+@INPROCEEDINGS{SuzukiS06,
+  author = {Daisuke Suzuki and Minoru Saeki},
+  title = {Security Evaluation of DPA Countermeasures Using Dual-Rail Pre-charge
+	Logic Style},
+  booktitle = {CHES},
+  year = {2006},
+  pages = {255-269},
+  bibsource = {DBLP, http://dblp.uni-trier.de},
+  crossref = {DBLP:conf/ches/2006},
+  ee = {http://dx.doi.org/10.1007/11894063_21},
+  file = {Security Evaluation of DPA Countermeasures using Dual-Rail Pre-charge
+	Logic Style.pdf:D\:\\035_Papers\\Crypto\\Security Evaluation of DPA
+	Countermeasures using Dual-Rail Pre-charge Logic Style.pdf:PDF}
+}
+
+@INPROCEEDINGS{DBLP:conf/ches/TillichG06,
+  author = {Stefan Tillich and Johann Gro{\ss}sch{\"a}dl},
+  title = {Instruction Set Extensions for Efficient AES Implementation on 32-bit
+	Processors},
+  booktitle = {CHES},
+  year = {2006},
+  pages = {270-284},
+  bibsource = {DBLP, http://dblp.uni-trier.de},
+  crossref = {DBLP:conf/ches/2006},
+  ee = {http://dx.doi.org/10.1007/11894063_22},
+  file = {:D\:\\035_Papers\\Crypto\\CryptoProcessors\\Instruction set extensions
+	for effcient AES.pdf:PDF}
+}
+
+@INPROCEEDINGS{DBLP:conf/sasp/ZuluagaKBTI09,
+  author = {Marcela Zuluaga and Theo Kluter and Philip Brisk and Nigel P. Topham
+	and Paolo Ienne},
+  title = {Introducing control-flow inclusion to support pipelining in custom
+	instruction set extensions},
+  booktitle = {SASP},
+  year = {2009},
+  pages = {114-121},
+  bibsource = {DBLP, http://dblp.uni-trier.de},
+  crossref = {DBLP:conf/sasp/2009},
+  ee = {http://doi.ieeecomputersociety.org/10.1109/SASP.2009.5226328},
+  file = {:D\:\\035_Papers\\ZuluagaJul09_IntroducingControlFlowInclusionToSupportPipeliningInCustomInstructionSetExtensions_SASP09.pdf:PDF}
+}
+
+@MISC{CfgDeskCfgGuide,
+  author = {{dSPACE}},
+  title = {{ConfigurationDesk, Configuration Guide, Release 5.4}},
+  year = {July 2007},
+  owner = {klimm},
+  timestamp = {2008.11.28}
+}
+
+@MISC{RapidProHWInst,
+  author = {{dSPACE}},
+  title = {{Hardware Installation Guide, Release 5.4}},
+  year = {July 2007},
+  owner = {klimm},
+  timestamp = {2008.11.28}
+}
+
+@MISC{dSPACE-PU-man,
+  author = {{dSPACE}},
+  title = {{RapidPro Hardware}},
+  year = {2008},
+  owner = {klimm},
+  timestamp = {2008.11.28}
+}
+
+@MISC{dSPACE-MicroAutoBox-features,
+  author = {{dSPACE}},
+  title = {MicroAutoBox Features Release 5.4},
+  year = {2007},
+  owner = {klimm},
+  timestamp = {2008.12.04}
+}
+
+@ARTICLE{OSGi_AMAA05,
+  author = {Gerrit {de Boer} and Peter Engel and Werner Praefcke},
+  title = {Generic Remote Software Update for Vehicle ECUs Using a Telematics
+	Device as a Gateway},
+  journal = {Advanced Microsystems for Automotive Applications},
+  year = {2005},
+  pages = {371-380},
+  doi = {10.1007/3-540-27463-4_27}
+}
+
+@CONFERENCE{AHS:SSDIES,
+  author = {André Adelsbach and Ulrich Huber and Ahmad-Reza Sadeghi},
+  title = {Secure software delivery and installation in embedded systems.},
+  booktitle = {ISPEC 2005},
+  year = {2005},
+  editor = {Robert H. Deng},
+  volume = {3439},
+  series = {LNCS},
+  pages = {255-267},
+  publisher = {Springer},
+  owner = {glas},
+  timestamp = {2007.08.30}
+}
+
+@ARTICLE{Adi-FPGA-sec06,
+  author = {Adi, W. and Ernst, R. and Soudan, B. and Hanoun, A.},
+  title = {VLSI design exchange with intellectual property protection in FPGA
+	environment using both secret and public-key cryptography},
+  journal = {Emerging VLSI Technologies and Architectures, 2006. IEEE Computer
+	Society Annual Symposium on},
+  year = {2-3 March 2006},
+  volume = {00},
+  pages = { 6 pp.-},
+  doi = {10.1109/ISVLSI.2006.94},
+  keywords = { VLSI, copy protection, field programmable gate arrays, industrial
+	property, integrated circuit design, logic design, private key cryptography,
+	protocols, public key cryptography FPGA environment, Rabin lock,
+	VLSI design exchange, design encryption, design exchange protocol,
+	design verification, device authentication protocols, intellectual
+	property protection, modular squaring, public-key cryptography, secret
+	key cryptography}
+}
+
+@INPROCEEDINGS{ABDMTFV05,
+  author = {Ali Ahmadinia and Christophe Bobda and Ji Ding and Mateusz Majer
+	and J\"urgen Teich and S\'andor Fekete and Jan van der Veen},
+  title = {A Practical Approach for Circuit Routing on Dynamic Reconfigurable
+	Devices},
+  booktitle = {Proceedings of the 16th IEEE International Workshop on Rapid System
+	Prototyping (RSP)},
+  year = {2005},
+  pages = {84--90},
+  address = {Montreal, Canada},
+  month = {jun},
+  date = {June 8--10}
+}
+
+@ARTICLE{NIOS-CI,
+  author = {{Altera Corporation}},
+  title = {Nios II Custom Instruction, User Guide},
+  year = {2008},
+  file = {:D\:\\030_Dokumentationen\\Altera\\ug_nios2_custom_instruction.pdf:PDF},
+  owner = {klimm}
+}
+
+@ARTICLE{AN341,
+  author = {{Altera Corporation}},
+  title = {{Using the Design Security Feature in Stratix II and Stratix II GX
+	Devices}},
+  journal = {Document AN341 (v2.1)},
+  year = {2007}
+}
+
+@ARTICLE{AltQII52016-6.0.0,
+  author = {{Altera Corporation}},
+  title = {{Power Optimization, QII52016-6.0.0}},
+  year = {2006},
+  owner = {klimm},
+  timestamp = {2008.11.27}
+}
+
+@INPROCEEDINGS{An:NKA,
+  author = {Iris Anshel and Michael Anshel and Benji Fisher and Dorian Goldfeld},
+  title = {{New Key Agreement Protocols in Braid Group Cryptography}},
+  booktitle = {{Topics in Cryptology --- CT-RSA 2001}},
+  year = {2001},
+  editor = {David Naccache},
+  volume = {2020},
+  series = {Lecture Notes in Computer Science},
+  pages = {13--27},
+  publisher = {Springer}
+}
+
+@ARTICLE{An:AMC,
+  author = {Iris Anshel and Michael Anshel and Dorian Goldfeld},
+  title = {An algebraic method for public-key cryptography},
+  journal = {Math. Research Letters},
+  year = {1999},
+  volume = {6},
+  pages = {287-291}
+}
+
+@ARTICLE{Art25,
+  author = {Emil Artin},
+  title = {{Theorie der Z{\"o}pfe}},
+  journal = {Hamb. Abh.},
+  year = {1925},
+  volume = {4},
+  pages = {47--72}
+}
+
+@MISC{AVR-ISA,
+  author = {{Atmel Corporation}},
+  title = {8-bit AVR instruction set},
+  month = {July},
+  year = {2009},
+  note = {Rev.0856H – 04/09},
+  file = {:D\:\\035_Papers\\Crypto\\Atmel-InstructionSet.pdf:PDF},
+  journal = {Document 0856H–AVR–07/09; http://www.atmel.com/dyn/resources/prod_documents/doc0856.pdf},
+  owner = {klimm},
+  timestamp = {2010.03.19},
+  url = {http://www.atmel.com/dyn/resources/prod_documents/doc0856.pdf}
+}
+
+@MISC{DS-atmel-ATA5811,
+  author = {{Atmel Corporation}},
+  title = {ATA5811/5812, UHF ASK/FSK Transceiver},
+  year = {2006},
+  journal = {Document 4689F-RKE-08/06; http://www.atmel.com/dyn/resources/prod_documents/doc4689.pdf},
+  owner = {klimm},
+  timestamp = {2010.03.12}
+}
+
+@MISC{FPSlic,
+  author = {{Atmel Corporation}},
+  title = {AT94KAL Series FPSLIC, Datasheet},
+  year = {2005},
+  file = {:D\:\\030_Dokumentationen\\Atmel\\FPslic_Secure_datasheet_doc2314.pdf:PDF;:D\:\\030_Dokumentationen\\Atmel\\FPslic_datasheet_doc1138.pdf:PDF},
+  owner = {klimm}
+}
+
+@PHDTHESIS{batina2005,
+  author = {L. Batina},
+  title = {Arithmetic and Architectures for Secure Hardware Implementations
+	of Public-Key Cryptography},
+  school = {Katholieke Universiteit COSIC},
+  year = {2005},
+  month = {December},
+  comment = {ISBN 90-5682-670-0},
+  owner = {klimm},
+  timestamp = {2007.11.26}
+}
+
+@ARTICLE{Batina2005-hecc,
+  author = {Lejla Batina and David Hwang and Alireza Hodjat and Bart Preneel
+	and Ingrid Verbauwhede},
+  title = {Hardware/Software Co-design for Hyperelliptic Curve Cryptography
+	(HECC) on the 8051 uP},
+  journal = {Lecture Notes in Computer Science},
+  year = {2005},
+  volume = {Volume 3659/2005},
+  __markedentry = {[klimm]},
+  file = {HW-SW Co-design for HECC on the 8051 uP.pdf:D\:\\035_Papers\\Crypto\\HW-SW
+	Co-design for HECC on the 8051 uP.pdf:PDF},
+  owner = {klimm},
+  timestamp = {2007.10.19}
+}
+
+@INPROCEEDINGS{conf/ches/BatinaHHPV05,
+  author = {Lejla Batina and David Hwang and Alireza Hodjat and Bart Preneel
+	and Ingrid Verbauwhede},
+  title = {Hardware/Software Co-design for Hyperelliptic Curve Cryptography
+	(HECC) on the 8051µP.},
+  booktitle = {CHES},
+  year = {2005},
+  pages = {106-118},
+  ee = {\url{http://dx.doi.org/10.1007/11545262_8}},
+  file = {HW-SW Co-design for HECC on the 8051 uP.pdf:D\:\\035_Papers\\Crypto\\HW-SW
+	Co-design for HECC on the 8051 uP.pdf:PDF}
+}
+
+@ARTICLE{Batina06,
+  author = {Batina, L. and Mentens, N. and Preneel, B. and Verbauwhede, I.},
+  title = {Flexible hardware architectures for curve-based cryptography},
+  journal = {Circuits and Systems, 2006. ISCAS 2006. Proceedings. 2006 IEEE International
+	Symposium on},
+  year = {2006},
+  pages = {4 pp.-},
+  month = {May},
+  __markedentry = {[klimm]},
+  doi = {10.1109/ISCAS.2006.1693714},
+  file = {Flexible Hardware Architectures for Curve-based Cryptography.pdf:D\:\\035_Papers\\Crypto\\Flexible
+	Hardware Architectures for Curve-based Cryptography.pdf:PDF},
+  keywords = { cryptography, field programmable gate arrays, logic design FPGA,
+	elliptic curve cryptography, flexible hardware architectures, hyperelliptic
+	curve cryptography}
+}
+
+@BOOK{Baumslag1993,
+  title = {{Topics in Combinatorial Group Theory}},
+  publisher = {Birkh\"auser},
+  year = {1993},
+  author = {Gilbert Baumslag},
+  series = {Lectures in Mathematics; ETH Z\"urich},
+  owner = {glas},
+  timestamp = {2007.07.25}
+}
+
+@CONFERENCE{PCAP2008,
+  author = {Salih Bayar and Arda Yurdakul},
+  title = {Dynamic Partial Self-Reconfiguration on Spartan-III FPGAs via a Parallel
+	Configuration Access Port (PCAP)},
+  booktitle = {Proceedings of HiPEAC Workshop on Reconfigurable Computing},
+  year = {2008},
+  address = {Goteborg, Sweden},
+  month = {January 27},
+  file = {:D\:\\035_Papers\\PCAP.pdf:PDF},
+  owner = {klimm},
+  timestamp = {2010.06.23}
+}
+
+@ARTICLE{BeckerIEEE07-DP_FPGA_Exp,
+  author = {J\"urgen Becker and Michael H\"ubner and Gerhard Hettich and Rainer
+	Constapel and Joachim Eisenmann and J\"urgen Luka},
+  title = {Dynamic and Partial FPGA Exploitation},
+  journal = {Proceedings of the IEEE},
+  year = {2007},
+  volume = {95},
+  pages = {438--452},
+  number = {2},
+  month = {february}
+}
+
+@INPROCEEDINGS{BCK:MAAP,
+  author = {Mihir Bellare and Ran Canetti and Hugo Krawczyk},
+  title = {{A Modular Approach to the Design and Analysis of Authentication
+	and Key Exchange Protocols}},
+  booktitle = {Proceedings of STOC 98},
+  year = {1998},
+  pages = {419-428},
+  publisher = {ACM}
+}
+
+@INPROCEEDINGS{Be:AKE,
+  author = {Mihir Bellare and David Pointcheval and Phillip Rogaway},
+  title = {{Authenticated Key Exchange Secure Against Dictionary Attacks}},
+  booktitle = {EUROCRYPT 2000},
+  year = {2000},
+  editor = {B. Preneel},
+  volume = {1807},
+  series = {Lecture Notes in Computer Science},
+  pages = {139-155},
+  publisher = {Springer}
+}
+
+@INPROCEEDINGS{BR:EAKD,
+  author = {Mihir Bellare and Phillip Rogaway},
+  title = {Entity authentication and key distribution},
+  booktitle = {Advances in Cryptology -- CRYPTO '93},
+  year = {1993},
+  editor = {Douglas R. Stinson},
+  volume = {773},
+  series = {Lecture Notes in Computer Science},
+  pages = {232-249},
+  publisher = {Springer}
+}
+
+@UNPUBLISHED{BR:GPT,
+  author = {Mihir Bellare and Philipp Rogaway},
+  title = {{The Game-Playing Technique}},
+  note = {Draft 0.4 vom 11. Dezember 2004},
+  year = {2004}
+}
+
+@INPROCEEDINGS{BR:PSSKD,
+  author = {Mihir Bellare and Philipp Rogaway},
+  title = {Provably secure session key distribution -- the three party case},
+  booktitle = {Proceedings of the 27th Annual ACM Symposium on Theory of Computing,
+	STOC '95},
+  year = {1995},
+  pages = {57-66},
+  publisher = {ACM Press}
+}
+
+@INPROCEEDINGS{BR:OAE,
+  author = {Mihir Bellare and Phillip Rogaway},
+  title = {Optimal asymmetric encryption},
+  booktitle = {Advances in Cryptology: EUROCRYPT '94},
+  year = {1994},
+  volume = {950},
+  series = {Lecture Notes in Computer Science},
+  pages = {92-111},
+  publisher = {Springer-Verlag}
+}
+
+@INPROCEEDINGS{BR:RO,
+  author = {Mihir Bellare and Phillip Rogaway},
+  title = {{Random Oracles are practical: A paradigm for designing efficient
+	protocols}},
+  booktitle = {Proceedings of the First ACM Conference on Computer and Communication
+	Security},
+  year = {1993},
+  pages = {62-73}
+}
+
+@ARTICLE{BethGollmann,
+  author = {T. Beth and D. Gollmann},
+  title = {Algorithm Engineering for Public Key Algorithms},
+  journal = {IEEE Journal on Selected Areas in Communications},
+  year = {1989},
+  volume = {Vol. 7, No. 4, May 1989, pp. 458-466},
+  owner = {klimm}
+}
+
+@ARTICLE{biere03bounded,
+  author = {Biere, A. and Cimatti, A. and Clarke, E. and Strichman, O. and Zhu,
+	Y. },
+  title = {Bounded model checking},
+  journal = {Advances in Computers},
+  year = {2003},
+  volume = {58},
+  abstract = {Symbolic model checking with Binary Decision Diagrams (BDDs) has been
+	successfully used in the last decade for formally verifying finite
+	state systems such as sequential circuits and protocols. Since its
+	introduction in the beginning of the 90's, it has been integrated
+	in the quality assurance process of several major hardware companies.
+	The main bottleneck of this method is that BDDs may grow exponentially,
+	and hence the amount of available memory restricts the size of circuits
+	that can...},
+  citeulike-article-id = {1537676},
+  keywords = {model-checker, reading-group-testing, softnet},
+  organization = {Semiconductor Research Corporation},
+  owner = {klimm},
+  posted-at = {2007-08-06 09:07:26},
+  priority = {5},
+  publisher = {Academic Press},
+  school = {Institute for Computer Systems, ETH Zurich},
+  url = {http://citeseer.ist.psu.edu/biere03bounded.html}
+}
+
+@BOOK{Bir74,
+  title = {{Braids, Links, And Mapping Class Groups}},
+  publisher = {Princeton University Press and University of Tokyo Press},
+  year = {1974},
+  author = {Joan S. Birman},
+  number = {82},
+  series = {Annals of Mathematics Studies},
+  address = {Princeton, New Jersey}
+}
+
+@ARTICLE{Bir:NAW,
+  author = {Joan S. Birman and Ki Hyoung Ko and Sang Jin Lee},
+  title = {A new approach to the word and conjugacy problems in the braid groups},
+  journal = {Advances in Mathematics},
+  year = {1998},
+  volume = {139},
+  pages = {322--353}
+}
+
+@BOOK{Blake-EC_in_Crypto,
+  title = {Elliptic curves in cryptography},
+  publisher = {Cambridge University Press},
+  year = {1999},
+  author = {Blake, Ian F. and Seroussi, G. and Smart, N. P.},
+  address = {New York, NY, USA},
+  abstract = {gives comparison in field sizes for ECC/HECC
+	
+	
+	In the past few years elliptic curve cryptography has moved from a
+	fringe activity to a major challenger to the dominant RSA/DSA systems.
+	Elliptic curves offer major advances on older systems such as increased
+	speed, less memory and smaller key sizes. As digital signatures become
+	more and more important in the commercial world the use of elliptic
+	curve-based signatures will become all pervasive. This book summarizes
+	knowledge built up within Hewlett-Packard over a number of years,
+	and explains the mathematics behind practical implementations of
+	elliptic curve systems. Due to the advanced nature of the mathematics
+	there is a high barrier to entry for individuals and companies to
+	this technology. Hence this book will be invaluable not only to mathematicians
+	wanting to see how pure mathematics can be applied but also to engineers
+	and computer scientists wishing (or needing) to actually implement
+	such systems.
+	
+	
+	Contents:
+	
+	Preface; 1. Introduction; 2. Finite field arithmetic; 3. Arithmetic
+	on an elliptic curve; 4. Efficient implementation of elliptic curves;
+	5. The elliptic curve discrete logarithm problem; 6. Determining
+	the group order; 7. Schoof's algorithm and extensions; 8. Generating
+	curves using complex multiplication; 9. Other applications of elliptic
+	curves; 10. Hyperelliptic curves; Appendix A. Curve examples; Bibliography;
+	Author index; Subject index.},
+  isbn = {0-521-65374-6}
+}
+
+@ARTICLE{DynInterconnect,
+  author = {Bobda, C. and Ahmadinia, A.},
+  title = {Dynamic interconnection of reconfigurable modules on reconfigurable
+	devices},
+  journal = {Design \& Test of Computers, IEEE},
+  year = {2005},
+  volume = {22},
+  pages = { 443-451},
+  number = {5},
+  month = {Sept.-Oct.},
+  doi = {10.1109/MDT.2005.109},
+  issn = {0740-7475}
+}
+
+@UNPUBLISHED{BVS:GKECI,
+  author = {Jens-Matthias Bohli and María Isabel {González~Vasco} and Rainer
+	Steinwandt},
+  title = {{Group Key Establishment with Corrupted Insiders}},
+  year = {2005}
+}
+
+@MISC{Bohli2005,
+  author = {Jens-Matthias Bohli and Mar\'{\i}a Isabel Gonz\'{a}lez Vasco and
+	Rainer Steinwandt},
+  title = {{Secure Group Key Establishment Revisited}},
+  howpublished = {Cryptology ePrint Archive, Report 2005/395},
+  year = {2005},
+  note = {\url{http://eprint.iacr.org/2005/395/}},
+  owner = {glas},
+  timestamp = {2007.07.25}
+}
+
+@INCOLLECTION{Bo:DDH,
+  author = {Dan Boneh},
+  title = {{The Decision Diffie-Hellman Problem}},
+  booktitle = {ANTS-III},
+  publisher = {Springer-Verlag},
+  year = {1998},
+  editor = {J. P. Buhler},
+  volume = {1423},
+  series = {Lecture Notes in Computer Science},
+  pages = {48-63}
+}
+
+@INPROCEEDINGS{speedpass05,
+  author = {Bono, Stephen C. and Green, Matthew and Stubblefield, Adam and Juels,
+	Ari and Rubin, Aviel D. and Szydlo, Michael},
+  title = {Security analysis of a cryptographically-enabled RFID device},
+  booktitle = {SSYM'05: Proceedings of the 14th conference on USENIX Security Symposium},
+  year = {2005},
+  pages = {1--1},
+  address = {Berkeley, CA, USA},
+  publisher = {USENIX Association},
+  location = {Baltimore, MD}
+}
+
+@PATENT{Pat-Bormann-dt,
+  nationality = {german},
+  number = {EP1764715},
+  year = {2005},
+  yearfiled = {2005},
+  author = {J. Bormann and H. Busch},
+  title = {Verfahren zur Bestimmung der Güte einer Menge von Eigenschaften,
+	verwendbar zur Verifikation und Spezifikation von Schaltungen (Method
+	for determining the quality of a set of properties, applicable for
+	the verification and specification of circuits).},
+  owner = {klimm},
+  timestamp = {2009.03.09}
+}
+
+@PATENT{Pat-Bormann-eng,
+  nationality = {german},
+  number = {EP1764715},
+  year = {2005},
+  yearfiled = {2005},
+  author = {J. Bormann and H. Busch},
+  title = {Method for determining the quality of a set of properties, applicable
+	for the verification and specification of circuits},
+  owner = {klimm},
+  timestamp = {2009.03.09}
+}
+
+@MISC{Bormann01formaleverifikation,
+  author = {J Bormann and C Spalinger},
+  title = {Formale Verifikation fuer Nicht-Formalisten (Formal Verification
+	for NonFormalists), Informationstechnik und Technische Informatik,
+	volume 43, issue 1/2001, Oldenbourg Verlag},
+  year = {2001},
+  owner = {klimm}
+}
+
+@MISC{CANSpec,
+  author = {Bosch},
+  title = {{CAN Specification Version 2.0}},
+  month = {March},
+  year = {1997},
+  owner = {klimm}
+}
+
+@ARTICLE{Bosma99signedbits,
+  author = {Wieb Bosma and Wieb Bosma},
+  title = {Signed bits and fast exponentiation},
+  journal = {J. Théor. Nombres Bordeaux},
+  year = {1999},
+  volume = {13},
+  pages = {27--41},
+  file = {:D\:\\035_Papers\\Crypto\\Signedbitsandfastexponentiation.pdf:PDF}
+}
+
+@INPROCEEDINGS{752736,
+  author = {Boston, N. and Clancy, T. and Liow, Y. and Webster, J.},
+  title = {Genus Two Hyperelliptic Curve Coprocessor},
+  booktitle = {CHES '02: Revised Papers from the 4th International Workshop on Cryptographic
+	Hardware and Embedded Systems},
+  year = {2003},
+  pages = {400--414},
+  address = {London, UK},
+  publisher = {Springer-Verlag},
+  abstract = {Hyperelliptic curve cryptography with genus larger than one
+	
+	has not been seriously considered for cryptographic purposes because
+	
+	many existing implementations are signi¯cantly slower than elliptic
+	curve
+	
+	versions with the same level of security. In this paper, the ¯rst
+	ever
+	
+	complete hardware implementation of a hyperelliptic curve coprocessor
+	
+	is described. This coprocessor is designed for genus two curves over
+	F2113 .
+	
+	Additionally, a modi¯cation to the Extended Euclidean Algorithm is
+	
+	presented for the GCD calculation required by Cantor's algorithm.
+	On
+	
+	average, this new method computes the GCD in one-fourth the time
+	
+	required by the Extended Euclidean Algorithm.},
+  file = {:D\:\\035_Papers\\Crypto\\CryptoProcessors\\Genus two hyperelliptic
+	curve coprocessor.pdf:PDF},
+  isbn = {3-540-00409-2}
+}
+
+@BOOK{BM:PAKE,
+  title = {{Protocols for Authentication and Key Establishment}},
+  publisher = {Springer},
+  year = {2004},
+  author = {Colin Boyd and Anish Mathuria}
+}
+
+@ARTICLE{braun2007ISVLSI,
+  author = {Lars Braun and Michael H\"ubner and Juergen Becker},
+  title = {Physical Configuration On-Line Visualization of Xilinx Virtex-II
+	FPGAs},
+  journal = {ISVLSI2007, Porto Alegre, Brazil},
+  year = {2007},
+  owner = {klimm}
+}
+
+@ARTICLE{braun2007FPL,
+  author = {Lars Braun and Thomas Perschke and Volker Schatz and Stefan Bach
+	and Michael H\"ubner and Juergen Becker},
+  title = {Circuit Switched Run-Time Adaptive Network-on-Chip for Image Processing
+	Applications},
+  journal = {FPL2007, Amsterdam, Netherlands},
+  year = {2007},
+  owner = {klimm}
+}
+
+@INPROCEEDINGS{Bresson2001,
+  author = {Emmanuel Bresson and Olivier Chevassut and David Pointcheval and
+	Jean-Jacques Quisquater},
+  title = {{Provably Authenticated Group Diffie-Hellman Key Exchange}},
+  booktitle = {Proceedings of the 8th ACM Conference on Computer and Communications
+	Security},
+  year = {2001},
+  editor = {Pierangela Samarati},
+  pages = {255--264},
+  publisher = {ACM Press},
+  owner = {glas},
+  timestamp = {2007.07.25}
+}
+
+@MISC{bryant_bdd,
+  author = {Bryant, R.E.},
+  title = {Graph-Based Algorithms for Boolean Function Manipulation},
+  year = {1986},
+  journal = {IEEE Transactions on Computers, 35(8), pp. 677-691},
+  owner = {sander}
+}
+
+@ARTICLE{Bur35,
+  author = {Werner Burau},
+  title = {{{\"U}ber Zopfgruppen und gleichsinnig verdrillte Verkettungen}},
+  journal = {Abh. Math. Semin. Hamb. Univ.},
+  year = {1935},
+  volume = {11},
+  pages = {179--186}
+}
+
+@INPROCEEDINGS{CGH:ROM,
+  author = {Ran Canetti and Oded Goldreich and Shai Halevi},
+  title = {The random oracle methodology, revisited},
+  booktitle = {Proc. 30th Annual ACM Symposium on Theory of Computing (STOC)},
+  year = {1998},
+  pages = {209-218}
+}
+
+@INPROCEEDINGS{Canetti2001,
+  author = {Ran Canetti and Hugo Krawczyk},
+  title = {{Analysis of Key-Exchange Protocols and Their Use for Building Secure
+	Channels}},
+  booktitle = {Advances in Cryptology -- EUROCRYPT 2001},
+  year = {2001},
+  volume = {2045},
+  series = {Lecture Notes in Computer Science},
+  pages = {453--474},
+  publisher = {Springer},
+  owner = {glas},
+  timestamp = {2007.07.25}
+}
+
+@ARTICLE{Castillo-SecIP2007,
+  author = {J. Castillo and P. Huerta and J.I. Martinez},
+  title = {Secure IP downloading for SRAM FPGAs},
+  journal = {Microprocessors and Microsystems},
+  year = {2007},
+  volume = {31},
+  pages = {77-86},
+  issue = {2}
+}
+
+@INPROCEEDINGS{Catalano2004,
+  author = {Dario Catalano and David Pointcheval and Thomas Pornin},
+  title = {{IPAKE: Isomorphisms for Password-based Authenticated Key Exchange}},
+  booktitle = {Advances in Cryptology -- CRYPTO 2004},
+  year = {2004},
+  editor = {Matthew K. Franklin},
+  volume = {3152},
+  series = {Lecture Notes in Computer Science},
+  pages = {477--493},
+  publisher = {Springer},
+  owner = {glas},
+  timestamp = {2007.07.25}
+}
+
+@MISC{Cha:CBR,
+  author = {Jae Choon Cha},
+  title = {{CBraid: a C++ library for computations in braid groups}},
+  year = {2001},
+  note = {At the time of writing available electronically at \url{http://knot.kaist.ac.kr/~jccha/cbraid/}.}
+}
+
+@INPROCEEDINGS{Cha:EIB,
+  author = {Jae Choon Cha and Ki Hyoung Ko and Sang Jin Lee and Jae Woo Han and
+	Jung Hee Cheon},
+  title = {{An Efficient Implementation of Braid Groups}},
+  booktitle = {Advances in Cryptology --- ASIACRYPT 2001},
+  year = {2001},
+  editor = {Colin Boyd},
+  volume = {2248},
+  series = {Lecture Notes in Computer Science},
+  pages = {144--156},
+  publisher = {Springer}
+}
+
+@INPROCEEDINGS{Cheon2003,
+  author = {Jung Hee Cheon and Byungheup Jun},
+  title = {{A Polynomial Time Algorithm for the Braid Diffie-Hellman Conjugacy
+	Problem}},
+  booktitle = {Advances in Cryptology -- CRYPTO 2003},
+  year = {2003},
+  editor = {Dan Boneh},
+  volume = {2729},
+  series = {Lecture Notes in Computer Science},
+  pages = {212--225},
+  publisher = {Springer},
+  owner = {glas},
+  timestamp = {2007.07.25}
+}
+
+@INPROCEEDINGS{Clark03processoracceleration,
+  author = {Nathan Clark and Hongtao Zhong and Scott Mahlke},
+  title = {Processor acceleration through automated instruction set customization},
+  booktitle = {In MICRO},
+  year = {2003},
+  pages = {129--140},
+  file = {:D\:\\030_Dokumentationen\\Security\\Processors\\Processor Acceleration
+	Through Automated Instruction Set Customization.pdf:PDF}
+}
+
+@ARTICLE{ClausSH07,
+  author = {Christopher Claus and Walter Stechele and Andreas Herkersdorf},
+  title = {Autovision - A Run-time Reconfigurable MPSoC Architecture for Future
+	Driver Assistance Systems (Autovision - Eine zur Laufzeit rekonfigurierbare
+	MPSoC Architektur f{\"u}r zuk{\"u}nftige Fahrerassistenzsysteme)},
+  journal = {it - Information Technology},
+  year = {2007},
+  volume = {49},
+  pages = {181-},
+  number = {3},
+  bibsource = {DBLP, http://dblp.uni-trier.de},
+  ee = {http://dx.doi.org/10.1524/itit.2007.49.3.181}
+}
+
+@BOOK{2005-cohen-hecc,
+  title = { Handbook of elliptic and hyperelliptic curve cryptography / [editors],
+	Henri Cohen, Gerhard Frey ; [authors], Roberto Avanzi ... [et al.]
+	},
+  publisher = { Chapman \& Hall/CRC, Boca Raton : },
+  year = { 2006 },
+  author = { Cohen, Henri. and Frey, Gerhard, and Avanzi, Roberto. },
+  pages = { xxxiv, 808 p. : },
+  booktitle = {{Handbook of elliptic and hyperelliptic curve cryptography}},
+  isbn = { 9781584885184 1584885181 },
+  language = { English },
+  life-dates = { 2006 - },
+  owner = {klimm},
+  subjects = { Curves, Elliptic - Handbooks, manuals, etc.; Cryptography - Mathematics
+	- Handbooks, manuals, etc.; Machine theory - Handbooks, manuals,
+	etc. },
+  type = { Book }
+}
+
+@ARTICLE{IEEE-1348568,
+  author = {Consoli, A. and Bottiglieri, A. and Letor, R. and Ruggeri, R. and
+	Testa, A. and De Caro, S.},
+  title = {Sensorless position control of DC actuators for automotive applications},
+  journal = {Industry Applications Conference, 2004. 39th IAS Annual Meeting.
+	Conference Record of the 2004 IEEE},
+  year = {2004},
+  volume = {2},
+  pages = { 1217-1224 vol.2},
+  month = {Oct.},
+  doi = {10.1109/IAS.2004.1348568},
+  issn = {0197-2618 },
+  keywords = { automotive components, control engineering computing, electric actuators,
+	microcontrollers, position control DC actuators, Hall effect position
+	sensors, angular position estimation algorithm, armature current,
+	automotive actuators, automotive applications, microcontrollers,
+	periodical oscillations, rotor shaft, rotor slotting, sensorless
+	position control}
+}
+
+@MISC{cook_theorem,
+  author = {Cook, Stephen},
+  title = {The complexity of theorem-proving procedures},
+  year = {1971},
+  journal = {Third ACM Symposium on Theory of Computing, New York},
+  owner = {sander}
+}
+
+@MISC{MOSTSpec,
+  author = {MOST Cooperation},
+  title = {{MOST Specification Rev. 2.3}},
+  month = {August},
+  year = {2004},
+  note = {available electronically at \url{http://www.mostnet.de}},
+  owner = {klimm}
+}
+
+@INPROCEEDINGS{coron99resistance,
+  author = {Jean-S\'{e}bastien Coron},
+  title = {Resistance against Differential Power Analysis for Elliptic Curve
+	Cryptosystems},
+  booktitle = {CHES '99: Proceedings of the First International Workshop on Cryptographic
+	Hardware and Embedded Systems},
+  year = {1999},
+  pages = {292--302},
+  address = {London, UK},
+  publisher = {Springer-Verlag},
+  isbn = {3-540-66646-X}
+}
+
+@ARTICLE{NVIDIA,
+  author = {NVIDIA CORPORATE},
+  title = {http://www.nvidia.com},
+  journal = {http://www.nvidia.com},
+  year = {2007}
+}
+
+@MANUAL{AVR09,
+  title = {AVR Studio 4},
+  author = {Atmel Corporation},
+  organization = {Atmel Corporation},
+  year = {2009},
+  owner = {klimm},
+  timestamp = {2010.08.25},
+  url = {http://www.atmel.com/dyn/Products/tools_card.asp?tool_id=2725}
+}
+
+@MISC{HiltiTPS,
+  author = {Hilti Corporation},
+  title = {Electronic theft protection},
+  howpublished = {Available electronically at \url{www.hilti.com}},
+  year = {2007},
+  owner = {Klimm},
+  url = {http://www.hilti.com/data/editorials/-16545/tps%20folder%20e%20w3039.pdf}
+}
+
+@ARTICLE{CELL-processor,
+  author = {IBM Corporation },
+  title = {http://www.ibm.com/},
+  journal = {http://www.ibm.com/},
+  year = {2007}
+}
+
+@MISC{CS:UHP,
+  author = {Ronald Cramer and Victor Shoup},
+  title = {{Universal Hash Proofs and a Paradigm for Adaptive Chosen Ciphertext
+	Secure Public-Key Encryption}},
+  month = {12},
+  year = {2001},
+  note = {Elektronisch verf\"ugbar unter \url{http://eprint.iacr.org/2001/085.pdf}}
+}
+
+@INPROCEEDINGS{PacketsNotWires,
+  author = {William J. Dally and Brian Towles},
+  title = {Route Packets, Not Wires: On-Chip Interconnection Networks},
+  booktitle = {Design Automation COnference (DAC) 2001},
+  year = {2001},
+  publisher = {ACM}
+}
+
+@INPROCEEDINGS{Dehornoy2004,
+  author = {Dehornoy, Patrick},
+  title = {{Braid-based cryptography}},
+  booktitle = {Group Theory, Statistics, and Cryptography},
+  year = {2004},
+  editor = {Myasnikov, Alexei G.},
+  number = {360},
+  series = {Contemporary Mathematics},
+  pages = {5--33},
+  publisher = {{ACM} Press},
+  note = {Online available at \url{http://www.math.unicaen.fr/~dehornoy/Surveys/Dgw.ps}},
+  owner = {glas},
+  timestamp = {2007.07.25}
+}
+
+@ARTICLE{Deh:BBC,
+  author = {Patrick Dehornoy},
+  title = {Braid-based cryptography},
+  journal = {Contemporary Mathematics},
+  year = {2004},
+  note = {Elektronisch verf\"ugbar unter \url{http://www.math.unicaen.fr/~dehornoy/surveys.html}},
+  optpages = {5-33},
+  optvolume = {360}
+}
+
+@MISC{libtomcrypt,
+  author = {Denis, Tom St.},
+  title = {LibTomCrypt},
+  howpublished = {\url{http://libtomcrypt.com/}},
+  owner = {mwachs},
+  timestamp = {2008.12.08}
+}
+
+@MISC{libtommath,
+  author = {Denis, Tom St.},
+  title = {LibTomMath},
+  howpublished = {\url{http://math.libtomcrypt.com/}},
+  owner = {mwachs},
+  timestamp = {2008.12.08}
+}
+
+@BOOK{tomcrypt,
+  title = {LibTomCrypt Developer Manual},
+  year = {2006},
+  author = {Tom St. Denis},
+  month = {May},
+  owner = {mwachs},
+  timestamp = {2008.11.29}
+}
+
+@BOOK{tommath,
+  title = {LibTomMath User Manual},
+  year = {2006},
+  author = {Tom St. Denis},
+  month = {April},
+  owner = {mwachs},
+  timestamp = {2008.11.29}
+}
+
+@MISC{Dick:XilinxSDR,
+  author = {Chris Dick},
+  title = {THE PLATFORM FPGA: ENABLING THE SOFTWARE RADIO},
+  year = {2001},
+  note = {At the time of writing available electronically at \url{http://www.xilinx.com/products/logicore/dsp/soft_radio_v1_6.pdf}.}
+}
+
+@INPROCEEDINGS{DH:NDC,
+  author = {W. Diffie and M. E. Hellman},
+  title = {{New Directions in Cryptography}},
+  booktitle = {IT-22},
+  year = {1976},
+  series = {IEEE Trans. on Info. Theory},
+  pages = {644-654}
+}
+
+@ARTICLE{diffie76new,
+  author = {Whitfield Diffie and Martin E. Hellman},
+  title = {New Directions in Cryptography},
+  journal = {IEEE Transactions on Information Theory},
+  year = {1976},
+  volume = {IT-22},
+  pages = {644--654},
+  number = {6},
+  date = {November 1976},
+  url = {citeseer.ist.psu.edu/diffie76new.html}
+}
+
+@ARTICLE{DOW:AAKE,
+  author = {Whitfield Diffie and Paul C. Van Oorschot and Michael J. Wiener},
+  title = {Authentication and authenticated key exchanges},
+  journal = {Designs, Codes and Cryptography},
+  year = {1992},
+  volume = {2},
+  pages = {107-125},
+  number = {2}
+}
+
+@ARTICLE{S3E_schem,
+  author = {{Digilent Inc.}},
+  title = {{Spartan 3E Schematic }},
+  year = {2006},
+  owner = {klimm},
+  timestamp = {2008.11.27},
+  url = {http://www.digilentinc.com/Data/Products/S3EBOARD/S3E%20Starter_sch.pdf}
+}
+
+@ARTICLE{10.1109/MM.2005.24,
+  author = {Hans Eberle and Sheueling Shantz and Vipul Gupta and Nils Gura and
+	Leonard Rarick and Lawrence Spracklen},
+  title = {Accelerating Next-Generation Public-Key Cryptosystems on General-Purpose
+	CPUs},
+  journal = {IEEE Micro},
+  year = {2005},
+  volume = {25},
+  pages = {52-59},
+  address = {Los Alamitos, CA, USA},
+  doi = {http://doi.ieeecomputersociety.org/10.1109/MM.2005.24},
+  file = {:D\:\\035_Papers\\Crypto\\CryptoProcessors\\Accelerating next-generation
+	public-key cryptosystems on GPUs.pdf:PDF},
+  issn = {0272-1732},
+  publisher = {IEEE Computer Society}
+}
+
+@INPROCEEDINGS{threeNoCcomp,
+  author = {Andreas Ehliar and Johan Eilert and Dake Liu},
+  title = {{A Comparison of Three FPGA optimized NoC Architectures}},
+  booktitle = {{Swedish System-on-Chip Conference (SSoCC)}},
+  year = {2007}
+}
+
+@ARTICLE{Kosch-SimC2CMes,
+  author = {Eichler, S. and Ostermaier, B. and Schroth, C. and Kosch, T.},
+  title = {Simulation of car-to-car messaging: analyzing the impact on road
+	traffic},
+  journal = {Modeling, Analysis, and Simulation of Computer and Telecommunication
+	Systems, 2005. 13th IEEE International Symposium on},
+  year = {2005},
+  pages = { 507-510},
+  month = {Sept.},
+  doi = {10.1109/MASCOTS.2005.64},
+  issn = {1526-7539},
+  keywords = { alarm systems, message passing, real-time systems, road traffic,
+	safety systems, simulation car, coupling concept, network simulator,
+	real-time vehicle-to-vehicle messaging, road traffic, simulation
+	environment, warning-message distribution application}
+}
+
+@ARTICLE{Eis07,
+  author = {T. Eisenbarth and T. G\"uneysu and C. Paar and A.-R. Sadeghi and
+	R. Tessier and M. Wolf},
+  title = {Trusted Computing in Reconfigurable Hardware},
+  journal = {{useIT 2007}},
+  year = {2007},
+  owner = {glas},
+  timestamp = {2007.08.14}
+}
+
+@INPROCEEDINGS{EGP-STC07,
+  author = {T. Eisenbarth and T. G\"{u}neysu and C. Paar and A. Sadeghi and D.
+	Schellekens and M. Wolf},
+  title = {Reconfigurable trusted computing in hardware},
+  booktitle = {STC '07: Proceedings of the 2007 ACM workshop on Scalable trusted
+	computing},
+  year = {2007},
+  pages = {15--20},
+  address = {New York, NY, USA},
+  publisher = {ACM},
+  doi = {http://doi.acm.org/10.1145/1314354.1314360},
+  isbn = {978-1-59593-888-6},
+  location = {Alexandria, Virginia, USA}
+}
+
+@MISC{MTMSpec_intro,
+  author = {Jan-Erik Ekberg and Markku Kyl\"anp\"a\"a},
+  title = {Mobile Trusted Module (MTM) - an introduction},
+  howpublished = {Available electronically at \url{http://research.nokia.com/files/NRCTR2007015.pdf}},
+  year = {2007},
+  owner = {Klimm},
+  url = {http://research.nokia.com/files/NRCTR2007015.pdf}
+}
+
+@ARTICLE{El:APB,
+  author = {Elsayed A. Elrifai and H. R. Morton},
+  title = {{Algorithms for Positive Braids}},
+  journal = {Quarterly Journal of Mathematics Oxford},
+  year = {1994},
+  volume = {45},
+  pages = {479--497}
+}
+
+@ARTICLE{Engel69,
+  author = {Peter Engel and Gunther Hildebrandt},
+  title = {{Die rhythmischen Schwankungen der Reaktionszeit beim Menschen}},
+  journal = {Psychological Research},
+  year = {01 December 1969},
+  volume = {32},
+  pages = {324-336},
+  doi = {10.1007/BF00424714},
+  file = {:D\:\\035_Papers\\Crypto\\Artfremd\\Die rhythmischen Schwankungen
+	der Reaktionszeit beim Menschen.pdf:PDF},
+  url = {http://www.springerlink.com/content/k5540026655071p3}
+}
+
+@INBOOK{Ep:WPG,
+  chapter = {9},
+  title = {Word Processing in Groups},
+  publisher = {Jones and Bartlett},
+  year = {1992},
+  author = {David B. A. Epstein and J. W. Cannon and D. F. Holt and S. V. F.
+	Levy and M. S. Paterson and W. P. Thurston}
+}
+
+@CONFERENCE{DRM-VDI07,
+  author = {P. Fellinger and Ch. Hodges},
+  title = {Challenges and Opportunities in the Support of Digital Rights Management},
+  booktitle = {Electronic Systems for Vehicles},
+  year = {2007},
+  number = {2000},
+  series = {VDI-Berichte},
+  pages = {431-442},
+  organization = {VDI},
+  publisher = {Verein Deutscher Ingenieure},
+  owner = {glas},
+  timestamp = {2007.10.17}
+}
+
+@TECHREPORT{FIPS_198,
+  author = {{FIPS}},
+  title = {{Pub 197: Advanced Encryption Standard (AES)}},
+  institution = {U.S. Department of Commerce, Information Technology Laboratory (ITL),
+	National Institute of Standards and Technology (NIST)},
+  year = {2001},
+  type = {Federal Information Processing Standards Publication},
+  address = {Gaithersburg, MD, USA}
+}
+
+@ARTICLE{Gar:BGO,
+  author = {F. A. Garside},
+  title = {{The Braid Group and Other Groups}},
+  journal = {Quarterly Journal of Mathematics Oxford},
+  year = {1969},
+  volume = {20},
+  pages = {235--254}
+}
+
+@ARTICLE{Gerber2005,
+  author = {David Gerber and Shmuel Kaplan and Mina Teicher and Boaz Tsaban and
+	Uzi Vishne},
+  title = {Probabilistic solutions of equations in the braid group},
+  journal = {{Advances in Applied Mathematics}},
+  year = {2005},
+  volume = {35},
+  pages = {323--334},
+  number = {3},
+  owner = {glas},
+  timestamp = {2007.07.25}
+}
+
+@MISC{Gl:DPA,
+  author = {Benjamin Glas},
+  title = {{DPA-Resistenz eines Zopfgruppen-basierten Signaturverfahrens}},
+  year = {2004},
+  note = {Studienarbeit, Universität Karlsruhe, IAKS}
+}
+
+@INPROCEEDINGS{VTC09,
+  author = {Benjamin Glas and Oliver Sander and Vitali Stuckert and Klaus D.
+	M\"uller-Glaser and J\"urgen Becker},
+  title = {Car-to-Car Communication Security on Reconfigurable Hardware},
+  booktitle = {{VTC2009-Spring: Proceedings of the IEEE 69th Vehicular Technology
+	Conference}},
+  year = {2009},
+  address = {Barcelona, Spain},
+  note = {to appear}
+}
+
+@BOOK{Go:FC2,
+  title = {{Foundations of Cryptography : Basic Applications}},
+  publisher = {Cambridge University Press},
+  year = {2004},
+  author = {Oded Goldreich},
+  volume = {II}
+}
+
+@BOOK{Go:FC1,
+  title = {{Foundations of Cryptography : Basic Tools}},
+  publisher = {Cambridge University Press},
+  year = {2001},
+  author = {Oded Goldreich},
+  volume = {I}
+}
+
+@INPROCEEDINGS{Go:IF,
+  author = {Dieter Gollmann},
+  title = {{Insider Fraud (Position Paper)}},
+  booktitle = {Security Protocols, 6th International Workshop},
+  year = {1998},
+  editor = {Bruce Christianson and Bruno Crispo and William S. Harbison and Michael
+	Roe},
+  volume = {1550},
+  series = {Lecture Notes in Computer Science},
+  pages = {213-219},
+  publisher = {Springer}
+}
+
+@MISC{Gonzalez01xtensa:a,
+  author = {Ricardo Gonzalez and Tensilica Inc},
+  title = {XTENSA: A Configurable and Extensible Processor},
+  year = {2001},
+  file = {:D\:\\035_Papers\\Crypto\\CryptoProcessors\\XTENSA- A Configurable
+	and Extensible Processor.pdf:PDF}
+}
+
+@INPROCEEDINGS{Gonz'alez2005,
+  author = {Gonz{\'a}lez Vasco, Mar{\'\i}a Isabel and Consuelo Mart{\'\i}nez
+	and Rainer Steinwandt and Jorge L. Villar},
+  title = {{A new Cramer-Shoup like methodology for group based provably secure
+	schemes}},
+  booktitle = {Proceedings of the 2nd Theory of Cryptography Conference TCC 2005},
+  year = {2005},
+  editor = {Joe Kilian},
+  volume = {3378},
+  series = {Lecture Notes in Computer Science},
+  pages = {495--509},
+  publisher = {Springer},
+  owner = {glas},
+  timestamp = {2007.07.25}
+}
+
+@ARTICLE{SHABench2002,
+  author = {Tim Grembowski and Roar Lien and Kris Gaj and Nghi Nguyen and Peter
+	Bellows and Jaroslav Flidr and Tom Lehman and Brian Scott},
+  title = {Comparative Analysis of the Hardware Implementations of Hash Functions
+	SHA-1 and SHA-512},
+  journal = {LNCS},
+  year = {2002},
+  volume = {2433},
+  pages = {75-89},
+  publisher = {Springer}
+}
+
+@MISC{GP:CMG,
+  author = {Dima Grigoriev and Ilia Ponomarenko},
+  title = {Constructions in public-key cryptography over matrix groups},
+  year = {2005},
+  note = {At the time of writing available electronically at \url{http://name.math.univ-rennes1.fr/dimitri.grigoriev/pub/matrix_journal.ps}}
+}
+
+@ARTICLE{Uli:SPANTPM,
+  author = {Ulrich Grossmann and Enrik Berkhan and Luciana C. Jatoba and Joerg
+	Ottenbacher and Wilhelm Stork and Klaus D. Mueller-Glaser},
+  title = {Security for mobile low power nodes in a Personal Area Network by
+	means of Trusted Platform Modules},
+  journal = {LNCS},
+  year = {2007},
+  volume = {4572},
+  pages = {172-186},
+  note = {ESAS 2007},
+  owner = {glas},
+  timestamp = {2007.08.30}
+}
+
+@INPROCEEDINGS{GuajardoKST_FPGAMemoryPUF_CHES07,
+  author = {Jorge Guajardo and Sandeep S. Kumar and Geert Jan Schrijen and Pim
+	Tuyls},
+  title = {{FPGA} intrinsic {PUFs} and their use for {IP} protection},
+  booktitle = {Cryptographic Hardware and Embedded Systems Workshop},
+  year = {2007},
+  volume = {4727},
+  series = {LNCS},
+  pages = {63--80},
+  month = {September},
+  file = {FPGA Intrinsic PUFs and Their Use for IP Protection .pdf:D\:\\035_Papers\\Crypto\\FPGA\\FPGA
+	Intrinsic PUFs and Their Use for IP Protection .pdf:PDF},
+  isbn = {978-3-540-74734-5},
+  url = {http://www.springerlink.com/index/u64160h472125824.pdf},
+  www_section = {PUFs, FPGA}
+}
+
+@INPROCEEDINGS{Guccione99jbits:java,
+  author = {Steve Guccione and Delon Levi and Prasanna Sundararajan},
+  title = {JBits: Java based interface for reconfigurable computing},
+  year = {1999}
+}
+
+@INPROCEEDINGS{GenArch_Packet_intercon,
+  author = {Pierre Guerrier and Alain Greiner},
+  title = {A Generic Architecture for On-Chip Packet-Switched Interconnections},
+  booktitle = {DATE 2000},
+  year = {2000},
+  pages = {250-256}
+}
+
+@ARTICLE{HuebnerSBCCI2006a,
+  author = {M. H\"ubner and J.Becker},
+  title = {Exploiting Dynamic and Partial Reconfiguration for FPGAs — Toolflow,
+	Architecture and System Integration},
+  journal = {SBCCI2006, Brazil},
+  year = {2006}
+}
+
+@ARTICLE{FPGANoCtokenring,
+  author = {Hadjiat, K. and St-Pierre, F. and Bois, G. and Savaria, Y. and Langevin,
+	M. and Paulin, P.},
+  title = {An FPGA Implementation of a Scalable Network-on-Chip Based on the
+	Token Ring Concept},
+  journal = {Electronics, Circuits and Systems, 2007. ICECS 2007. 14th IEEE International
+	Conference on},
+  year = {2007},
+  pages = {995-998},
+  month = {Dec.},
+  doi = {10.1109/ICECS.2007.4511160}
+}
+
+@ARTICLE{hankerson01software,
+  author = {Darrel Hankerson and Julio L{\'o}pez Hernandez and Alfred Menezes},
+  title = {Software Implementation of Elliptic Curve Cryptography over Binary
+	Fields},
+  journal = {Lecture Notes in Computer Science},
+  year = {2001},
+  volume = {1965},
+  pages = {1--??},
+  file = {:D\:\\035_Papers\\Crypto\\Math\\Software Implementation of Elliptic
+	Curve Cryptography Over Binary Fields.pdf:PDF},
+  url = {citeseer.ist.psu.edu/hankerson00software.html}
+}
+
+@BOOK{2004-hankerson,
+  title = {{Guide to elliptic curve cryptography}},
+  publisher = {Springer},
+  year = {2004},
+  author = {Darrel Hankerson and Alfred Menezes and Scott Vanstone},
+  address = {New York},
+  booktitle = {{Guide to elliptic curve cryptography}},
+  isbn = {0--387--95273--X},
+  mr = {2054891},
+  owner = {klimm}
+}
+
+@ARTICLE{Hartenstein2006,
+  author = {R. Hartenstein},
+  title = {Why we need Reconfigurable Computing Education},
+  journal = {RC-Education Workshop, 2006, Karlsruhe, Germany},
+  year = {2006}
+}
+
+@ARTICLE{Hartenstein2004,
+  author = {R. Hartenstein},
+  title = {Reconfigurable Technologies},
+  journal = {Seminar at Department of Informatics, Kyushu University, Higashi-ku,
+	Fukuoka City, Kyushu, Japan},
+  year = {2004}
+}
+
+@INPROCEEDINGS{Hochberger2007,
+  author = {Gerald Hempel and Christian Hochberger},
+  title = {A Resource Optimized Processor Core for FPGA based SoCs},
+  booktitle = {Proceedings of the 10th Euromicro Conference on Digital System Design
+	(DSD 2007)},
+  year = {2007},
+  editor = {Hana Kubatova},
+  pages = {51-58},
+  publisher = {IEEE},
+  file = {:D\:\\035_Papers\\Crypto\\dsd2007-A resource optimized Processor Core
+	for FPGA based SoCs.pdf:PDF}
+}
+
+@ARTICLE{1232264,
+  author = {Hodjat, Alireza and Batina, Lejla and Hwang, David and Verbauwhede,
+	Ingrid},
+  title = {HW/SW co-design of a hyperelliptic curve cryptosystem using a microcode
+	instruction set coprocessor},
+  journal = {Integr. VLSI J.},
+  year = {2007},
+  volume = {40},
+  pages = {45--51},
+  number = {1},
+  address = {Amsterdam, The Netherlands, The Netherlands},
+  doi = {http://dx.doi.org/10.1016/j.vlsi.2005.12.011},
+  file = {:D\:\\035_Papers\\Crypto\\CryptoProcessors\\HW-SW co-design of a hyperelliptic
+	curve cryptosystem using a microcode instruction set coprocessor.pdf:PDF},
+  issn = {0167-9260},
+  publisher = {Elsevier Science Publishers B. V.}
+}
+
+@INPROCEEDINGS{Hofheinz2002,
+  author = {Hofheinz, Dennis and Steinwandt, Rainer},
+  title = {{A Practical Attack on Some Braid Group Based Cryptographic Primitives}},
+  booktitle = {Public Key Cryptography, Proceedings of {PKC} 2003},
+  year = {2002},
+  editor = {Desmedt, Yvo},
+  number = {2567},
+  series = {Lecture Notes in Computer Science},
+  pages = {187--198},
+  publisher = {Springer-Verlag},
+  owner = {glas},
+  timestamp = {2007.07.25}
+}
+
+@INPROCEEDINGS{connectcoresNoC,
+  author = {Rickerd Holsmark and Alf Johansson and Shashi Kumar},
+  title = {On connercting cores to packet switched on-chip networks: a case
+	study with microblaze processor cores},
+  booktitle = {{7th IEEE workshop DDECS 04}},
+  year = {2004},
+  publisher = {IEEE}
+}
+
+@ARTICLE{HowonKimJune2008,
+  author = {Howon Kim, Thomas Wollinger, Doo-Ho Choi, Dong-Guk Han, Mun-Kyu Lee},
+  title = {Hyperelliptic Curve Crypto-Coprocessor over Affine and Projective
+	Coordinates},
+  journal = {ETRI Journal},
+  year = {June 2008},
+  volume = {vol.30, no.3},
+  pages = {pp.365-376},
+  doi = {DOI:10.4218/etrij.08.0107.0022},
+  file = {:D\:\\035_Papers\\Crypto\\CryptoProcessors\\Hyperelliptic Curve Crypto-Coprocessor
+	over affine and projective coordinates.pdf:PDF},
+  owner = {klimm},
+  timestamp = {2010.03.09}
+}
+
+@ARTICLE{runtimerekonfmultilayerNoC,
+  author = {Hubner, M. and Braun, L. and Gohringer, D. and Becker, J.},
+  title = {Run-time reconfigurable adaptive multilayer network-on-chip for FPGA-based
+	systems},
+  journal = {Parallel and Distributed Processing, 2008. IPDPS 2008. IEEE International
+	Symposium on},
+  year = {2008},
+  pages = {1-6},
+  month = {April},
+  doi = {10.1109/IPDPS.2008.4536504},
+  issn = {1530-2075}
+}
+
+@INPROCEEDINGS{Paulson2005,
+  author = {Michael Hubner and Katarina Paulsson and Jurgen Becker},
+  title = {Parallel and Flexible Multiprocessor System-On-Chip for Adaptive
+	Automotive Applications based on Xilinx MicroBlaze Soft-Cores},
+  booktitle = {IPDPS '05: Proceedings of the 19th IEEE International Parallel and
+	Distributed Processing Symposium (IPDPS'05) - Workshop 3},
+  year = {2005},
+  pages = {149.1},
+  address = {Washington, DC, USA},
+  publisher = {IEEE Computer Society},
+  doi = {http://dx.doi.org/10.1109/IPDPS.2005.325},
+  isbn = {0-7695-2312-9}
+}
+
+@INPROCEEDINGS{Hueb2006-RMW,
+  author = {Hubner, M. and Schuck, C. and Becker, J.},
+  title = {Elementary block based 2-dimensional dynamic and partial reconfiguration
+	for Virtex-II FPGAs},
+  booktitle = {Parallel and Distributed Processing Symposium, 2006. IPDPS 2006.
+	20th International},
+  year = {2006},
+  pages = {8 pp.},
+  month = {25-29},
+  doi = {10.1109/IPDPS.2006.1639449},
+  keywords = {2-dimensional placement;Virtex-II FPGA;Xilinx;complete microcontroller
+	systems;dynamic reconfiguration;field programmable gate arrays;online
+	routing;partial reconfiguration;run-time reconfiguration;run-time
+	system;systems-on-chip;field programmable gate arrays;system-on-chip;}
+}
+
+@ARTICLE{Huebner2D2006,
+  author = {Michael Huebner and al},
+  title = {New 2-Dimensional Partial Dynamic Reconfiguration Techniques for
+	Real-time Adaptive Microelectronic Circuits},
+  journal = {ISVLSI2006, Karlsruhe, Germany},
+  year = {2006},
+  owner = {klimm}
+}
+
+@INPROCEEDINGS{Hue:NoCReconf04,
+  author = {M. Huebner and M. Ullmann and L. Braun and A. Klausmann and J. Becker},
+  title = {Scalable Application-Dependent Network on Chip Adaptivity for Dynamical
+	Reconfigurable Real-Time Systems},
+  booktitle = {FPL 2004},
+  year = {2004},
+  editor = {J. Becker and M. Platzner and S. Vernalde},
+  volume = {3203},
+  series = {Lecture Notes in Computer Science},
+  pages = {1037--1041},
+  owner = {glas},
+  timestamp = {2007.10.19}
+}
+
+@INPROCEEDINGS{Hu:LAA,
+  author = {James Hughes},
+  title = {{A Linear Algebra Attack on the AAFG1 Braid Group Cryptosystem}},
+  booktitle = {Information Security and Privacy. 7th Australasian Conference, ACISP
+	2002},
+  year = {2002},
+  editor = {Lynn Batten and Jennifer Seberry},
+  volume = {2384},
+  series = {Lecture Notes in Computer Science},
+  pages = {176-189},
+  publisher = {Springer-Verlag}
+}
+
+@MISC{OPBSpec,
+  author = {IBM},
+  title = {{64-Bit On-Chip Peripheral Bus, Architecture Specifications Version
+	2.1; SA-14-2528-02}},
+  month = {April},
+  year = {2001},
+  owner = {klimm},
+  timestamp = {2007.11.26}
+}
+
+@ARTICLE{1609,
+  author = {{IEEE}},
+  title = {Trial-Use Standard for Wireless Access in Vehicular Environments
+	(WAVE)},
+  journal = {IEEE Std 1609},
+  year = {2006}
+}
+
+@MISC{Xilinx-UG208,
+  author = {Xilinx Inc.},
+  title = {Early Access Partial Reconfiguration User Guide},
+  year = {2008},
+  journal = {Document UG208, v1.2; http://www.xilinx.com}
+}
+
+@MISC{UG-PicoBlaze,
+  author = {Xilinx Inc.},
+  title = {PicoBlaze 8-bit Embedded Microcontroller User Guide},
+  year = {2005},
+  journal = {Document UG129; http://www.xilinx.com/bvdocs/userguides/UG129.pdf}
+}
+
+@MISC{LPC,
+  author = {{Intel Corporation}},
+  title = {Intel® Low Pin Count (LPC), Interface Specification},
+  year = {2002},
+  owner = {klimm},
+  timestamp = {2007.09.05}
+}
+
+@ARTICLE{ITOH,
+  author = {T. Itoh and S. Tsujii},
+  title = {Effective Recursive Algorithm for Computing Multiplicative Inverses
+	in GF(2m)},
+  journal = {IEEE Electronic Letters},
+  year = {1988},
+  volume = {Vol. 24 No. 6},
+  pages = {334-335},
+  month = {March},
+  owner = {klimm},
+  timestamp = {2007.11.26}
+}
+
+@ARTICLE{HuebnerSBCCI2006b,
+  author = {J.Becker and M. H\"ubner},
+  title = {Run-time Reconfigurabilility and Other Future Trends},
+  journal = {SBCCI2006, Brazil},
+  year = {2006}
+}
+
+@ARTICLE{NoCs:NewContractHW_SW,
+  author = {Axel Jantsch},
+  title = {NoCs: a new contract between hardware and software},
+  journal = {Digital System Design, 2003. Proceedings. Euromicro Symposium on},
+  year = {2003},
+  pages = { 10-16},
+  month = {Sept.},
+  doi = {10.1109/DSD.2003.1231894}
+}
+
+@ARTICLE{DesignTheorySegBus,
+  author = {W.-B. Jone and J. S. Wang and Hsueh-I Lu and I. P. Hsu and J.-Y.
+	Chen},
+  title = {Design theory and implementation for low-power segmented bus systems},
+  journal = {ACM Trans. Des. Autom. Electron. Syst.},
+  year = {2003},
+  volume = {8},
+  pages = {38--54},
+  number = {1},
+  address = {New York, NY, USA},
+  doi = {http://doi.acm.org/10.1145/606603.606606},
+  issn = {1084-4309},
+  publisher = {ACM}
+}
+
+@PHDTHESIS{dscthesis2008,
+  author = {Kimmo J{\"a}rvinen},
+  title = {Studies on High-Speed Hardware Implementation of Cryptographic Algorithms},
+  school = {Helsinki University of Technology},
+  year = {2008},
+  type = {Doctoral dissertation},
+  month = {November},
+  note = {Department of Signal Processing and Acoustics Report Series, Report
+	5},
+  file = {:D\:\\035_Papers\\Crypto\\CryptoProcessors\\STUDIES ON HIGH-SPEED
+	HARDWARE IMPLEMENTATION of cryptographic algorithms.pdf:PDF}
+}
+
+@INPROCEEDINGS{KY:SPAGKE,
+  author = {Jonathan Katz and Moti Yung},
+  title = {{Scalable Protocols for Authenticated Group Key Exchange}},
+  booktitle = {CRYPTO 2003},
+  year = {2003},
+  editor = {D. Boneh},
+  volume = {2729},
+  series = {Lecture Notes in Computer Science},
+  pages = {110-125},
+  organization = {International Association for Cryptologic Research}
+}
+
+@INPROCEEDINGS{KLL:AGKE,
+  author = {Hyun-Jeong Kim and Su-Mi Lee and Dong Hoon Lee},
+  title = {{Constant-Round Authenticated Group Key Exchange for Dynamic Groups}},
+  booktitle = {ASIACRYPT 2004},
+  year = {2004},
+  editor = {P.J. Lee},
+  volume = {3329},
+  series = {Lecture Notes in Computer Science},
+  pages = {245-259},
+  publisher = {Springer}
+}
+
+@MISC{Kl:DC,
+  author = {Alexander Klimm},
+  title = {{Co-Processor Design of a GF(2n) Hardware Accelerator on a FPGA Based
+	Platform}},
+  year = {2006},
+  note = {Diplomathesis, Universit\"at Karlsruhe, ITIV},
+  file = {DA_Alexander_Klimm-CoProc_Design_for_GF2N.pdf:D\:\\Dokumentationen\\DA_Alexander_Klimm-CoProc_Design_for_GF2N.pdf:PDF},
+  owner = {Klimm}
+}
+
+@TECHREPORT{Herk080814,
+  author = {Alexander Klimm and Oliver Sander},
+  title = {{HERKULES Bericht - Meilenstein 2-2}},
+  institution = {Institut f\"ur Technik der Informationsverarbeitung},
+  year = {2008},
+  type = {Meilensteinbericht},
+  number = {MS 2-2},
+  month = {August},
+  owner = {klimm},
+  timestamp = {2009.03.20}
+}
+
+@ARTICLE{10.1109/IPDPS.2009.5161204,
+  author = {Alexander Klimm and Oliver Sander and Jurgen Becker},
+  title = {A MicroBlaze specific co-processor for real-time hyperelliptic curve
+	cryptography on Xilinx FPGAs},
+  journal = {Parallel and Distributed Processing Symposium, International},
+  year = {2009},
+  volume = {0},
+  pages = {1-8},
+  address = {Los Alamitos, CA, USA},
+  doi = {http://doi.ieeecomputersociety.org/10.1109/IPDPS.2009.5161204},
+  isbn = {978-1-4244-3751-1},
+  publisher = {IEEE Computer Society}
+}
+
+@INPROCEEDINGS{KlimmRAW09,
+  author = {Klimm, Alexander and Sander, Oliver and Becker, Jurgen},
+  title = {A MicroBlaze specific co-processor for real-time hyperelliptic curve
+	cryptography on Xilinx FPGAs},
+  booktitle = {IPDPS '09: Proceedings of the 2009 IEEE International Symposium on
+	Parallel\&Distributed Processing},
+  year = {2009},
+  pages = {1--8},
+  address = {Washington, DC, USA},
+  publisher = {IEEE Computer Society},
+  doi = {http://dx.doi.org/10.1109/IPDPS.2009.5161204},
+  file = {:D\:\\035_Papers\\AK_papers\\HECC_CoProc_II_Raw09_f\\HECC_CoProc_II.pdf:PDF},
+  isbn = {978-1-4244-3751-1}
+}
+
+@INPROCEEDINGS{KlimmARCS08,
+  author = {Alexander Klimm and Oliver Sander and J\"urgen Becker and Sylvain
+	Subileau},
+  title = {A Hardware/Software Codesign of a Co-processor for Real-Time Hyperelliptic
+	Curve Cryptography on a Spartan3 FPGA.},
+  booktitle = {ARCS},
+  year = {2008},
+  editor = {Uwe Brinkschulte and Theo Ungerer and Christian Hochberger and Rainer
+	G. Spallek},
+  volume = {4934},
+  series = {Lecture Notes in Computer Science},
+  pages = {188-201},
+  publisher = {Springer},
+  biburl = {http://www.bibsonomy.org/bibtex/29cf8722050ec7d0ed385b118260a3636/dblp},
+  date = {2008-02-28},
+  description = {dblp},
+  ee = {http://dx.doi.org/10.1007/978-3-540-78153-0_15},
+  file = {:D\:\\035_Papers\\AK_papers\\HECC_CoProc\\Paper A Hardware-Software
+	Codesign of a Co-Processor for HECC_cameraready.pdf:PDF},
+  isbn = {978-3-540-78152-3},
+  keywords = {Coprocessor, HECC, FPGA},
+  owner = {klimm},
+  timestamp = {2008.03.27}
+}
+
+@MISC{Ki:NSS,
+  author = {Ki Hyoung Ko and Doo Ho Choi and Mi Sung Cho and Jang Won Lee},
+  title = {{New Signature Scheme Using Conjugacy Problem}},
+  howpublished = {Cryptology ePrint Archive},
+  year = {2002},
+  note = {Elektronisch verf\"ugbar unter \url{http://eprint.iacr.org/2002/168}}
+}
+
+@INPROCEEDINGS{Ko:NPK,
+  author = {Ki Hyoung Ko and Sang Jin Lee and Jung Hee Cheon and Jae Woo Han
+	and Ju-sung Kang and Choonsik Park},
+  title = {{New Public-Key Cryptosystem Using Braid Groups}},
+  booktitle = {Advances in Cryptology --- CRYPTO 2000},
+  year = {2000},
+  editor = {Mihir Bellare},
+  volume = {1880},
+  series = {Lecture Notes in Computer Science},
+  pages = {166--183},
+  publisher = {Springer}
+}
+
+@INPROCEEDINGS{Kob91CM,
+  author = {Koblitz, Neal},
+  title = {CM-Curves with Good Cryptographic Properties},
+  booktitle = {CRYPTO '91: Proceedings of the 11th Annual International Cryptology
+	Conference on Advances in Cryptology},
+  year = {1992},
+  pages = {279--287},
+  address = {London, UK},
+  publisher = {Springer-Verlag},
+  file = {:D\:\\035_Papers\\Crypto\\Math\\CM-Curves with Good Cryptographic
+	Properties.pdf:PDF},
+  isbn = {3-540-55188-3}
+}
+
+@ARTICLE{Koblitz1989,
+  author = {Neal Koblitz},
+  title = {Hyperelliptic cryptosystems},
+  journal = {J. Cryptol.},
+  year = {1989},
+  volume = {1},
+  pages = {139--150},
+  number = {3},
+  address = {Secaucus, NJ, USA},
+  doi = {http://dx.doi.org/10.1007/BF02252872},
+  issn = {0933-2790},
+  publisher = {Springer-Verlag New York, Inc.}
+}
+
+@ARTICLE{10.1109/SAC.2004.1322583,
+  author = {Paul Kocher and Ruby Lee and Gary McGraw and Anand Raghunathan and
+	Srivaths Ravi},
+  title = {Security as a New Dimension in Embedded System Design},
+  journal = {dac},
+  year = {2004},
+  volume = {00},
+  pages = {753-760},
+  address = {Los Alamitos, CA, USA},
+  doi = {http://doi.ieeecomputersociety.org/10.1109/SAC.2004.1322583},
+  isbn = {1-58113-828-8},
+  publisher = {IEEE Computer Society}
+}
+
+@ARTICLE{carhack10,
+  author = {K. Koscher and A. Czeskis and F. Roesner and S. Patel and T. Kohno
+	and S. Checkoway and D. McCoy and B. Kantor and D. Anderson and H.
+	Shacham and S. Savage.},
+  title = {Experimental Security Analysis of a Modern Automobile},
+  journal = {The IEEE Symposium on Security and Privacy, Oakland, CA, May 16-19},
+  year = {2010},
+  file = {:D\:\\035_Papers\\Crypto\\AutomotiveSecurity\\Experimental Security
+	Analysis of a Modern Automobile.pdf:PDF},
+  owner = {klimm},
+  timestamp = {2010.05.27}
+}
+
+@ARTICLE{CommRekonfSoC,
+  author = {Lee, A.S. and Bergmann, N.W.},
+  title = {On-chip communication architectures for reconfigurable System-on-Chip},
+  journal = {Field-Programmable Technology (FPT)},
+  year = {2003},
+  pages = { 332-335},
+  month = {Dec.},
+  doi = {10.1109/FPT.2003.1275770}
+}
+
+@ARTICLE{QuantEvalOCC2007,
+  author = {Hyung Gyu Lee and Naehyuck Chang and Umit Y. Ogras and Radu Marculescu},
+  title = {On-chip communication architecture exploration: A quantitative evaluation
+	of point-to-point, bus, and network-on- chip approaches},
+  journal = {ACM Trans. Des. Autom. Electron. Syst.},
+  year = {2007},
+  volume = {12},
+  pages = {1--20},
+  number = {3},
+  address = {New York, NY, USA},
+  doi = {http://doi.acm.org/10.1145/1255456.1255460},
+  issn = {1084-4309},
+  publisher = {ACM}
+}
+
+@ARTICLE{multichanneloCBus,
+  author = {Sanghun Lee and Chanho Lee and Hyuk-Jae Lee},
+  title = {A new multi-channel on-chip-bus architecture for system-on-chips},
+  journal = {IEEE International SOC Conference},
+  year = {2004},
+  pages = {305-308},
+  month = {Sept.},
+  doi = {10.1109/SOCC.2004.1362444}
+}
+
+@INPROCEEDINGS{Lee:PWC,
+  author = {Sang Jin Lee and Eonkyung Lee},
+  title = {{Potential Weaknesses of the Commutator Key Agreement Protocol Based
+	On Braid Groups}},
+  booktitle = {Advances in Cryptology -- EUROCRYPT 2002},
+  year = {2002},
+  editor = {Lars Knudsen},
+  volume = {2332},
+  series = {Lecture Notes in Computer Science},
+  pages = {14--28},
+  publisher = {Springer}
+}
+
+@CONFERENCE{LSS:SEI,
+  author = {Kerstin Lembke and Ahmad-Reza Sadeghi and Christian St\"uble},
+  title = {An Open Approach for Designing Secure Electronic Immobilizers},
+  booktitle = {ISPEC},
+  year = {2005},
+  editor = {Robert H. Deng and Feng Bao and HweeHwa Pang and Jianying Zhou},
+  volume = {3439},
+  series = {LNCS},
+  pages = {230-242},
+  publisher = {Springer},
+  owner = {glas},
+  timestamp = {2007.08.30}
+}
+
+@INBOOK{ESC-SCA,
+  chapter = {Embedded Cryptography: Side Channel Attacks},
+  title = {Embedded Cryptography: Side Channel Attacks},
+  publisher = {Springer},
+  year = {2006},
+  author = {Kerstin Lemke and Christof Paar and Marko Wolf},
+  booktitle = {Embedded Security in Cars}
+}
+
+@ARTICLE{XilinxAPP290,
+  author = {D. Lim and M. Peattie},
+  title = {Two Flows for Partial Reconfiguration: Module Based or Small Bit
+	Manipulations},
+  journal = {Xilinx Application Note 290 (v1.0)},
+  year = {2002},
+  owner = {klimm}
+}
+
+@MISC{linSpec,
+  author = {{LIN Consortium}},
+  title = {LIN Specification Package, Revision 2.0},
+  year = {2003},
+  owner = {klimm}
+}
+
+@MISC{Lysaght_invitedpaper:,
+  author = {Patrick Lysaght and On Blodget and Jeff Mason},
+  title = {INVITED PAPER: ENHANCED ARCHITECTURES, DESIGN METHODOLOGIES AND CAD
+	TOOLS FOR DYNAMIC RECONFIGURATION OF XILINX FPGAS}
+}
+
+@CONFERENCE{Maggiore2007,
+  author = {Adriana Maggiore},
+  title = {Complete Formal Verification of TriCore2 and Other Processors},
+  booktitle = {Dvcon},
+  year = {2007},
+  owner = {klimm},
+  timestamp = {2007.10.18}
+}
+
+@CONFERENCE{SiemensVDO-DriverWP07,
+  author = {H. Matschi and M. Brainard},
+  title = {Trends Driver Workplace},
+  booktitle = {Electronic Systems for Vehicles},
+  year = {2007},
+  number = {2000},
+  series = {VDI-Berichte},
+  pages = {347-356},
+  organization = {VDI},
+  publisher = {Verein Deutscher Ingenieure},
+  owner = {glas},
+  timestamp = {2007.10.17}
+}
+
+@BOOK{HAC,
+  title = {Handbook of Applied Cryptography},
+  publisher = {CRC Press},
+  year = {2001},
+  author = {Alfred J. Menezes and Paul C. van Oorschot and Scott A. Vanstone},
+  keywords = {cryptography handbook programming reference security },
+  url = {http://www.cacr.math.uwaterloo.ca/hac/}
+}
+
+@BOOK{Mo:TKB,
+  title = {The mathematical theory of knots and braids},
+  publisher = {North-Holland},
+  year = {1983},
+  author = {Moran, Siegfried},
+  isbn = {0-444-86714-7},
+  keywords = {Knotentheorie,Zopf ,Braid },
+  language = {engl.}
+}
+
+@MISC{msdn-rsa,
+  author = {MSDN},
+  title = {.NET Framework Class Library - RSACryptoServiceProvider Class},
+  howpublished = {\url{http://msdn.microsoft.com/en-us/library/system.security.cryptography.rsacryptoserviceprovider.aspx}},
+  owner = {mwachs},
+  timestamp = {2008.10.30}
+}
+
+@ARTICLE{Nee78,
+  author = {Needham, Roger M. and Schroeder, Michael D. },
+  title = {Using encryption for authentication in large networks of computers},
+  journal = {Commun. ACM},
+  year = {1978},
+  volume = {21},
+  pages = {993--999},
+  number = {12},
+  month = {December},
+  address = {New York, NY, USA},
+  citeulike-article-id = {1640413},
+  doi = {http://dx.doi.org/10.1145/359657.359659},
+  issn = {0001-0782},
+  keywords = {analysis, first, formalization, protocol},
+  owner = {Klimm},
+  posted-at = {2007-09-10 08:00:26},
+  priority = {2},
+  publisher = {ACM Press},
+  url = {http://dx.doi.org/10.1145/359657.359659}
+}
+
+@ARTICLE{IPC-LIN,
+  author = {Nguyen, M.D. and Thalmaier, M. and Wedler, M. and Bormann, J. and
+	Stoffel, D. and Kunz, W.},
+  title = {Unbounded Protocol Compliance Verification Using Interval Property
+	Checking With Invariants},
+  journal = {Computer-Aided Design of Integrated Circuits and Systems, IEEE Transactions
+	on},
+  year = {2008},
+  volume = {27},
+  pages = {2068-2082},
+  number = {11},
+  month = {Nov. },
+  doi = {10.1109/TCAD.2008.2006092},
+  issn = {0278-0070},
+  keywords = {binary decision diagrams, finite state machines, formal verification,
+	protocols, system-on-chipbinary decision diagram, bounded circuit
+	model, central finite state machine, communication blocks, formal
+	verification, interval property checking, reachability analysis,
+	satisfiability solving, system-on-chip designs, unbounded protocol
+	compliance verification}
+}
+
+@INPROCEEDINGS{debitpaper,
+  author = {Note, Jean-Baptiste and Rannaud, \'{E}ric},
+  title = {From the bitstream to the netlist},
+  booktitle = {FPGA '08: Proceedings of the 16th international ACM/SIGDA symposium
+	on Field programmable gate arrays},
+  year = {2008},
+  pages = {264--264},
+  address = {New York, NY, USA},
+  publisher = {ACM},
+  doi = {http://doi.acm.org/10.1145/1344671.1344729},
+  file = {:D\:\\030_Dokumentationen\\From Bitstream to the netlist.pdf:PDF},
+  isbn = {978-1-59593-934-0},
+  location = {Monterey, California, USA},
+  url = {http://www.ulogic.org/trac}
+}
+
+@INPROCEEDINGS{okamoto-prot,
+  author = {Tatsuaki Okamoto},
+  title = {Provably Secure and Practical Identification Schemes and Corresponding
+	Signature Schemes},
+  booktitle = {CRYPTO '92: Proceedings of the 12th Annual International Cryptology
+	Conference on Advances in Cryptology},
+  year = {1993},
+  pages = {31--53},
+  address = {London, UK},
+  publisher = {Springer-Verlag},
+  isbn = {3-540-57340-2},
+  owner = {Klimm}
+}
+
+@MISC{OS-HB-50,
+  author = {OneSpin},
+  title = {\url{www.onespin-solutions.com}},
+  year = {2008},
+  owner = {klimm}
+}
+
+@MISC{OS-Manual-50,
+  author = {OneSpin},
+  title = {{OneSpin 360 User Documentation, Version 5.0}},
+  year = {2008},
+  owner = {klimm},
+  url = {www.onespin-solutions.com}
+}
+
+@CONFERENCE{Pauls2006,
+  author = {Katharina Paulsson and Michael H\"ubner and J\"urgen Becker},
+  title = {On-Line Optimization of FPGA Power-Dissipation by Exploiting Run-time
+	Adaption of Communication Primitives},
+  booktitle = {SBCCI, Brasil},
+  year = {2006},
+  owner = {klimm},
+  timestamp = {2007.08.24}
+}
+
+@INPROCEEDINGS{Pauls2007,
+  author = {Paulsson, K. and Hubner, M. and Auer, G. and Dreschmann, M. and Chen,
+	L. and Becker, J.},
+  title = {Implementation of a Virtual Internal Configuration Access Port (JCAP)
+	for Enabling Partial Self-Reconfiguration on Xilinx Spartan III FPGAs},
+  booktitle = {Field Programmable Logic and Applications, 2007. FPL 2007. International
+	Conference on},
+  year = {2007},
+  pages = {351 -356},
+  month = {27-29},
+  doi = {10.1109/FPL.2007.4380671},
+  keywords = {Virtex II/IV/V architecture;Xilinx Spartan III FPGA architecture;dynamic
+	partial self-reconfigurable system;hardware reconfigurable measurement
+	system;virtual internal configuration access port;computer interfaces;field
+	programmable gate arrays;reconfigurable architectures;},
+  owner = {klimm},
+  timestamp = {2007.09.04}
+}
+
+@BOOK{pear03,
+  title = {Trusted Computing Platforms},
+  publisher = {Prentice Hall},
+  year = {2003},
+  editor = {Siani Pearson},
+  author = {Siani Pearson and Boris Balacheff and Liqun Chen and David Plaquin
+	and Graeme Proudler},
+  owner = {glas},
+  timestamp = {2007.07.26}
+}
+
+@MISC{Pelzl03hyperellipticcurve,
+  author = {Jan Pelzl and Thomas Wollinger and Jorge Guajardo and Christof Paar},
+  title = {Hyperelliptic Curve Cryptosystems: Closing the Performance Gap to
+	Elliptic Curves },
+  year = {2003},
+  file = {:D\:\\035_Papers\\Crypto\\HYPERELLIPTIC CURVE CRYPTOSYSTEMS - CLOSING
+	THE PERFORMANCE GAP.pdf:PDF}
+}
+
+@INBOOK{IB-PWP04,
+  chapter = {Special Hyperelliptic Curve Cryptosystems of Genus Two: Efficient
+	Arithmetic and Fast Implementation},
+  title = {Embedded Cryptographic Hardware: Design and Security},
+  publisher = {Nova Science Publishers},
+  year = {2004},
+  author = {J. Pelzl and T. Wollinger and C. Paar},
+  address = {NY, USA},
+  note = {editor Nadia Nedjah}
+}
+
+@ARTICLE{picoblaze-c-compiler,
+  author = {Francesco Poderico},
+  title = {Picoblaze C Compiler},
+  journal = {Picoblaze C Compiler},
+  year = {2005}
+}
+
+@ARTICLE{PS:SADS,
+  author = {D. Pointcheval and J. Stern},
+  title = {{Security Arguments for Digital Signatures and Blind Signatures}},
+  journal = {Journal of Cryptology},
+  year = {2000},
+  volume = {13},
+  pages = {361-396},
+  number = {3}
+}
+
+@BOOK{PS:KLB,
+  title = {Knots, links, braids and 3-manifolds},
+  publisher = {American Mathematical Society},
+  year = {1997},
+  author = {Prasolov, Viktor V. and Sossinsky, A. B.},
+  edition = {Repr. with corr.},
+  isbn = {0-8218-0588-6, 0-8218-0898-2}
+}
+
+@INPROCEEDINGS{Raju03ellipticcurve,
+  author = {G. V. S. Raju and Rehan Akbani},
+  title = {Elliptic Curve Cryptosystems and its Applications},
+  booktitle = {in the proceedings of the IEEE-SMC Conference},
+  year = {2003},
+  file = {:D\:\\035_Papers\\Crypto\\Elliptic Curve Cryptosystems and its Applications.pdf:PDF},
+  owner = {klimm}
+}
+
+@ARTICLE{DBLP:journals/ijnsec/RamasamyPDS09,
+  author = {R. Rajaram Ramasamy and M. Amutha Prabakar and M. Indra Devi and
+	M. Suguna},
+  title = {Knapsack Based ECC Encryption and Decryption},
+  journal = {I. J. Network Security},
+  year = {2009},
+  volume = {9},
+  pages = {218-226},
+  number = {3},
+  bibsource = {DBLP, http://dblp.uni-trier.de},
+  ee = {http://ijns.femto.com.tw/contents/ijns-v9-n3/ijns-2009-v9-n3-p218-226.pdf},
+  file = {:D\:\\035_Papers\\Crypto\\Knapsack Based ECC Encryption and Decryption
+	- ijns-2009-v9-n3-p218-226.pdf:PDF}
+}
+
+@MASTERSTHESIS{DA-Rathner,
+  author = {Arik Rathner},
+  title = {{Entwicklung eines verlustleistungsoptimierten Hardware/Software
+	Codesigns zur Darstellung eines Funkfahrzeugschlüssels auf Basis
+	asymmetrischer Verschlüsselung}},
+  school = {Universität Karlsruhe - Institut für Technik der Informationsverarbeitung},
+  year = {2008},
+  owner = {klimm},
+  timestamp = {2008.11.27}
+}
+
+@MASTERSTHESIS{DA-Mardones,
+  author = {Armando Lou Mardones},
+  title = {{Entwicklung einer Public-Key Authentifizierungsplattform für ein Keyless Go System}},
+  school = {Universität Karlsruhe - Institut für Technik der Informationsverarbeitung},
+  year = {2008},
+  owner = {klimm},
+  timestamp = {2010.10.06}
+}
+
+@MISC{Ri:MD5,
+  author = {Ronald Rivest},
+  title = {{The MD5 message-digest algorithm: RfC 1321}},
+  year = {1992},
+  note = {elektronisch verf\"ugbar unter \url{http://www.ietf.org/rfc/rfc1321.txt}}
+}
+
+@ARTICLE{RSA78,
+  author = {R.L. Rivest and A. Shamir and L. Adleman},
+  title = {A Method for Obtaining Digital Signatures and Public-Key Cryptosystems},
+  journal = {Communications of the ACM},
+  year = {1978},
+  volume = {21},
+  pages = {120--126}
+}
+
+@ARTICLE{RSA,
+  author = {R. L. Rivest and A. Shamir and L. Adleman},
+  title = {A method for obtaining digital signatures and public-key cryptosystems},
+  journal = {Communications of the ACM},
+  year = {1978},
+  volume = {21},
+  pages = {120-126},
+  number = {2},
+  file = {:http\://people.csail.mit.edu/rivest/Rsapaper.pdf:PDF}
+}
+
+@MISC{bosch_lin_ip,
+  author = {{Robert Bosch GmbH}},
+  title = {\url{www.bosch.de}},
+  year = {2008},
+  owner = {klimm}
+}
+
+@MISC{linDesGuide,
+  author = {{Robert Bosch GmbH}},
+  title = {{C\_LIN, LIN Module Designers Guide, Revision 1.5.1}},
+  year = {2007},
+  owner = {klimm}
+}
+
+@ARTICLE{SAE_J2735D,
+  author = {{SAE}},
+  title = {{Dedicated Short Range Communications (DSRC) Standard Draft}},
+  journal = {{SAE Standard J2735}},
+  year = {2006}
+}
+
+@ARTICLE{SAKAIYasuyuki:20000425,
+  author = {SAKAI,Yasuyuki and SAKURAI,Kouichi},
+  title = {On the Practical Performance of Hyperelliptic Curve Cryptosystems
+	in Software Implementation(Special Section on Discrete Mathematics
+	and Its Applications)},
+  journal = {IEICE transactions on fundamentals of electronics, communications
+	and computer sciences},
+  year = {20000425},
+  volume = {83},
+  pages = {692-703},
+  number = {4},
+  issn = {09168508},
+  publisher = {The Institute of Electronics, Information and Communication Engineers},
+  url = {http://ci.nii.ac.jp/naid/110003208578/en/}
+}
+
+@ARTICLE{Saka07,
+  author = {Sakiyama, Kazuo and Batina, Lejla and Preneel, Bart and Verbauwhede,
+	Ingrid},
+  title = {Multicore Curve-Based Cryptoprocessor with Reconfigurable Modular
+	Arithmetic Logic Units over GF(2^n)},
+  journal = {IEEE Trans. Comput.},
+  year = {2007},
+  volume = {56},
+  pages = {1269--1282},
+  number = {9},
+  address = {Washington, DC, USA},
+  doi = {http://dx.doi.org/10.1109/TC.2007.1071},
+  file = {:D\:\\035_Papers\\Crypto\\CryptoProcessors\\Multicore Curve-Based
+	Cryptoprocessor with Reconfigurable Modular ALU.pdf:PDF},
+  issn = {0018-9340},
+  publisher = {IEEE Computer Society}
+}
+
+@CONFERENCE{CGW-VDI07,
+  author = {Oliver Sander and J\"urgen Becker and Michael H\"ubner and Michael
+	Dreschmann and J\"urgen Luka and Matthias Traub and Thomas Weber},
+  title = {{Modular system concept for FPGA-based Automotive Gateway}},
+  booktitle = {Electronic Systems for Vehicles},
+  year = {2007},
+  number = {2000},
+  series = {VDI-Berichte},
+  pages = {223-232},
+  organization = {VDI},
+  publisher = {Verein Deutscher Ingenieure},
+  owner = {glas}
+}
+
+@INPROCEEDINGS{FISITA08,
+  author = {Oliver Sander and Benjamin Glas and J\"urgen Becker and Klaus D.
+	M\"uller-Glaser},
+  title = {AN EXPLOITATION OF RECONFIGURABLE HARDWARE ARCHITECTURES FOR CAR-TO-CAR
+	COMMUNICATION CONSIDERING AUTOMOTIVE REQUIREMENTS},
+  booktitle = {FISITA World Automotive Congress 2008},
+  year = {2008},
+  address = {Munich, Germany}
+}
+
+@INPROCEEDINGS{EAEC09,
+  author = {Oliver Sander and Benjamin Glas and Christoph Roth and J\"urgen Becker
+	and Klaus D. M\"uller-Glaser},
+  title = {{Real Time Information Processing for Car-to-Car Communication Applications}},
+  booktitle = {{EAEC 2009 - the 12th European Automotive Congress}},
+  year = {2009},
+  address = {Bratislava},
+  note = {to appear}
+}
+
+@CONFERENCE{GKS:RAW08,
+  author = {Oliver Sander and Alexander Klimm and Benjamin Glas and J\"urgen
+	Becker and Klaus D. M\"uller-Glaser},
+  title = {A self adaptive interfacing concept for consumer device integration
+	into automotive entities},
+  booktitle = {RAW 2008},
+  year = {2008},
+  note = {to appear},
+  owner = {glas},
+  timestamp = {2008.01.15}
+}
+
+@ARTICLE{Berlin-EmulV2X,
+  author = {Sch\"unemann, B. and Massow, K. and Radusch, I.},
+  title = {A Novel Approach for Realistic Emulation of Vehicle-2-X Communication
+	Applications},
+  journal = {Vehicular Technology Conference, 2008. VTC Spring 2008. IEEE},
+  year = {2008},
+  pages = {2709-2713},
+  month = {May},
+  doi = {10.1109/VETECS.2008.593},
+  issn = {1550-2252},
+  keywords = {automated highways, digital simulation, mobile radio, traffic engineering
+	computingintegrated software simulation environment, realistic emulation,
+	wireless vehicle-2-X communication application}
+}
+
+@INPROCEEDINGS{Berlin-SimVC-V2X,
+  author = {Bj\"{o}rn Sch\"{u}nemann and Kay Massow and Ilja Radusch},
+  title = {Realistic simulation of vehicular communication and vehicle-2-X applications},
+  booktitle = {Simutools '08: Proceedings of the 1st international conference on
+	Simulation tools and techniques for communications, networks and
+	systems \& workshops},
+  year = {2008},
+  pages = {1--9},
+  address = {ICST, Brussels, Belgium, Belgium},
+  publisher = {ICST (Institute for Computer Sciences, Social-Informatics and Telecommunications
+	Engineering)},
+  isbn = {978-963-9799-20-2},
+  location = {Marseille, France}
+}
+
+@ARTICLE{DBLP:journals/corr/abs-0712-2113,
+  author = {Andreas U. Schmidt and Nicolai Kuntze and Michael Kasper},
+  title = {On the deployment of Mobile Trusted Modules},
+  journal = {CoRR},
+  year = {2007},
+  volume = {abs/0712.2113},
+  bibsource = {DBLP, http://dblp.uni-trier.de},
+  ee = {http://arxiv.org/abs/0712.2113},
+  owner = {klimm}
+}
+
+@ARTICLE{BS_LIN_Veri,
+  author = {Bernard Schmidt and Slava Bulach and Katharina Weinberger and Markus
+	Wedler},
+  title = {{Formale Verifikation einer Hardware-Implementierung des LIN-Protokoll
+	Kontrollers}},
+  journal = {MBMV 2008},
+  year = {2008},
+  owner = {klimm}
+}
+
+@BOOK{BS:AKrypto,
+  title = {Angewandte Kryptographie},
+  publisher = {Addison-Wesley},
+  year = {1996},
+  author = {Bruce Schneier}
+}
+
+@BOOK{schneier,
+  title = {Applied cryptography (2nd ed.): protocols, algorithms, and source
+	code in C},
+  publisher = {John Wiley \& Sons, Inc.},
+  year = {1995},
+  author = {Schneier, Bruce},
+  address = {New York, NY, USA},
+  isbn = {0-471-11709-9}
+}
+
+@INPROCEEDINGS{schnorr-prot,
+  author = {Claus P. Schnorr},
+  title = {Efficient identification and signatures for smart cards},
+  booktitle = {CRYPTO '89: Proceedings on Advances in cryptology},
+  year = {1989},
+  pages = {239--252},
+  address = {New York, NY, USA},
+  publisher = {Springer-Verlag New York, Inc.},
+  isbn = {0-387-97317-6},
+  location = {Santa Barbara, California, United States},
+  owner = {Klimm},
+  url = {http://dsns.csie.nctu.edu.tw/research/crypto/HTML/PDF/C89/239.PDF}
+}
+
+@INPROCEEDINGS{SchuHaBe:Recosoc08,
+  author = {Schuck, C. and Haetzer, B. and Becker, J.},
+  title = {An Interface for a Decentralized 2d-Reconfiguration on Xilinx Virtex-FPGAs
+	for Organic Computing},
+  booktitle = {ReCoSoC'08 Proceedings},
+  year = {2008},
+  month = {July},
+  key = {ITIV}
+}
+
+@ARTICLE{datenschleuder2010,
+  author = {Stefan Schumacher},
+  title = {Psychologische Grundlagen des Social-Engineering},
+  year = {2010},
+  volume = {\#94},
+  pages = {52-59},
+  address = {Hamburg},
+  editor = {Chaos Computer Club},
+  issn = {0930-1054},
+  journalsubtitle = {Das wissenschaftliche Fachblatt für den Datenreisenden},
+  journaltitle = {Die Datenschleuder},
+  keys = {Social Engineering, Sozialpsychologie}
+}
+
+@ARTICLE{schumacher-grundschutz-soceng1,
+  author = {Stefan Schumacher},
+  title = {Admins Albtraum},
+  year = {2009},
+  volume = {7},
+  pages = {11\,--\,13},
+  abstract = {Mittels Social Engineering kann ein Angreifer über Hochstapelei und
+	Trickbetrug umfangreiche Informationen aus Mitarbeitern herausholen,
+	die ihm weitere Angriffe ermöglichen oder sogar schon die gewünschten
+	Zielinformationen sind. Der erste Teil des Artikels geht auf zahlreiche
+	psychologische Grundlagen ein, die sich Angreifer zu nutze machen.},
+  issn = {1862-4375},
+  issue = {Juli},
+  journaltitle = {Informationsdienst IT-Grundschutz},
+  keywords = {Social Engineering, Sicherheit},
+  language = {german},
+  subtitle = {Die psychologischen Grundlagen des Social Engineering, Teil I},
+  url = {http://grundschutz.info/fileadmin/kundenbereich/Dokumente/Grundschutz_7-2009_11_13.pdf},
+  urldate = {2009-07-22}
+}
+
+@ARTICLE{schumacher-grundschutz-soceng2,
+  author = {Stefan Schumacher},
+  title = {Admins Albtraum},
+  year = {2009},
+  volume = {8},
+  pages = {8\,--\,9},
+  abstract = {Social Engineering ist vielen IT-Sicherheitsbeauftragten als Gefahr
+	bekannt, doch was sich im Detail dahinter verbirgt, wissen die wenigsten.
+	Im zweiten Teil seiner Artikelserie beschreibt Stefan Schumacher
+	weitere Beeinflussungsmethoden und ihre Hintergründe.},
+  issn = {1862-4375},
+  issue = {August},
+  journaltitle = {Informationsdienst IT-Grundschutz},
+  keywords = {Social Engineering, Sicherheit},
+  language = {german},
+  subtitle = {Die psychologischen Grundlagen des Social Engineering, Teil II},
+  url = {http://grundschutz.info/fileadmin/kundenbereich/Dokumente/Grundschutz_8-2009_8_9.pdf},
+  urldate = {2009-08-24}
+}
+
+@ARTICLE{schumacher-grundschutz-soceng3,
+  author = {Stefan Schumacher},
+  title = {Admins Albtraum},
+  year = {2009},
+  volume = {10/11},
+  pages = {21\,--\,22},
+  abstract = {Mittels Social Engineering kann ein Angreifer über Hochstapelei und
+	Trickbetrug umfangreiche Informationen aus Mitarbeitern herausholen,
+	die ihm weitere Angriffe ermöglichen oder sogar schon die gewünschten
+	Zielinformationen enthalten. Der dritte Teil nennt weitere psychologische
+	Grundlagen, die sich Angreifer zu nutze machen.},
+  issn = {1862-4375},
+  issue = {Oktober},
+  journaltitle = {Informationsdienst IT-Grundschutz},
+  keywords = {Social Engineering, Sicherheit},
+  language = {german},
+  subtitle = {Die psychologischen Grundlagen des Social Engineering, Teil III}
+}
+
+@ARTICLE{CommSegmentBus,
+  author = {Seceleanu, T.},
+  title = {Communication on a segmented bus},
+  journal = {SOC Conference, 2004. Proceedings. IEEE International},
+  year = {2004},
+  pages = { 205-208},
+  month = {Sept.},
+  doi = {10.1109/SOCC.2004.1362409}
+}
+
+@MISC{FIPS140-1,
+  author = {Category Computer Security and Donald L. Evans and Karen H. Brown
+	and Acting Director and William Mehuron Director},
+  title = {FIPS 140-1: Security Requirements For Cryptographic Modules},
+  year = {1994},
+  address = {Gaithersburg, MD, USA},
+  file = {:D\:\\035_Papers\\Crypto\\NIST\\fips1401.pdf:PDF},
+  institution = {U.S. DEPARTMENT OF COMMERCE / National Institute of Standards and
+	Technology},
+  type = {Federal Information Processing Standards Publication}
+}
+
+@INPROCEEDINGS{flexbus,
+  author = {Krishna Sekar and Kanishka Lahiri and Anand Raghunathan and Sujit
+	Dey},
+  title = {FLEXBUS: a high-performance system-on-chip communication architecture
+	with a dynamically configurable topology},
+  booktitle = {DAC '05},
+  year = {2005},
+  pages = {571--574},
+  address = {New York, NY, USA},
+  publisher = {ACM},
+  doi = {http://doi.acm.org/10.1145/1065579.1065728},
+  isbn = {1-59593-058-2},
+  location = {Anaheim, California, USA}
+}
+
+@INPROCEEDINGS{LIPAR,
+  author = {Balasubramanian Sethuraman and Prasun Bhattacharya and Jawad Khan
+	and Ranga Vemuri},
+  title = {LiPaR: A light-weight parallel router for FPGA-based networks-on-chip},
+  booktitle = {GLSVSLI '05},
+  year = {2005},
+  pages = {452--457},
+  address = {New York, NY, USA},
+  publisher = {ACM},
+  doi = {http://doi.acm.org/10.1145/1057661.1057769},
+  isbn = {1-59593-057-4},
+  location = {Chicago, Illinois, USA}
+}
+
+@MISC{Shp:SoG,
+  author = {Victor Shoup},
+  title = {{Sequences of Games: A Tool for Taming Complexity in Security Proofs}},
+  month = {November},
+  year = {2004}
+}
+
+@MISC{Sh:FMSKE,
+  author = {Victor Shoup},
+  title = {{On Formal Models for Secure Key Exchange}},
+  howpublished = {Cryptology ePrint Archive: Report 1999/012},
+  year = {1999},
+  note = {Elektronisch verf\"ugbar unter \url{http://eprint.iacr.org/1999/012}}
+}
+
+@INPROCEEDINGS{Shpilrain2005a,
+  author = {Vladimir Shpilrain and Alexander Ushakov},
+  title = {{Thompson's Group and Public Key Cryptography}},
+  booktitle = {Applied Cryptography and Network Security: Third International Conference,
+	ACNS 2005},
+  year = {2005},
+  editor = {John Ioannidis and Angelos Keromytis and Moti Yung},
+  volume = {3531},
+  series = {Lecture Notes in Computer Science},
+  pages = {151--163},
+  owner = {glas},
+  timestamp = {2007.07.25}
+}
+
+@ARTICLE{Shpilraintoappeara,
+  author = {Vladimir Shpilrain and Alexander Ushakov},
+  title = {{The conjugacy search problem in public key cryptography: unnecessary
+	and insufficient}},
+  journal = {Applicable Algebra in Engineering, Communication and Computing},
+  year = {to appear},
+  note = {Online available at \url{http://www.sci.ccny.cuny.edu/~shpil/csp.pdf}},
+  owner = {glas},
+  timestamp = {2007.07.25}
+}
+
+@MISC{Shpilrain2005,
+  author = {Vladimir Shpilrain and Alexander Ushakov},
+  title = {A new key exchange protocol based on the decomposition problem},
+  howpublished = {Cryptology ePrint Archive: Report 2005/447},
+  year = {2005},
+  note = {\url{http://eprint.iacr.org/2005/447}},
+  owner = {glas},
+  timestamp = {2007.07.25}
+}
+
+@ARTICLE{SZ:CGTPKC,
+  author = {Vladimir Shpilrain and Gabriel Zapata},
+  title = {Combinatorial group theory and public key cryptography},
+  journal = {Applicable Algebra in Engineering, Communication and Computing},
+  year = {to appear},
+  note = {Online available at \url{http://www.sci.ccny.cuny.edu/~shpil/pkc.pdf}},
+  owner = {glas},
+  timestamp = {2007.07.25}
+}
+
+@INPROCEEDINGS{Smit2002,
+  author = {Gerard J.M. Smit and Paul J.M. Havinga and Lodewijk T. Smit and Paul
+	M. Heysters and Michel A.J. Rosien},
+  title = {Dynamic Reconfiguration in Mobile Systems},
+  booktitle = {FPL 2002},
+  year = {2002},
+  volume = {2438},
+  pages = {171-181},
+  journal = {Lecture Notes in Computer Science}
+}
+
+@INPROCEEDINGS{SolinasCrypto97,
+  author = {Solinas,, Jerome A.},
+  title = {An Improved Algorithm for Arithmetic on a Family of Elliptic Curves},
+  booktitle = {CRYPTO '97: Proceedings of the 17th Annual International Cryptology
+	Conference on Advances in Cryptology},
+  year = {1997},
+  pages = {357--371},
+  address = {London, UK},
+  publisher = {Springer-Verlag},
+  file = {:D\:\\035_Papers\\Crypto\\An Improved Algorithm for Arithmetic on
+	a Family of Elliptic Curves.pdf:PDF},
+  isbn = {3-540-63384-7}
+}
+
+@UNPUBLISHED{STAHLKE:COMPRESSION,
+  author = {Cohlin Stahlke},
+  title = {{Point Compression on Jacobians of Hyperelliptic Curves over $\mathbb{F}_q$}},
+  note = {{preprint}},
+  year = {2004}
+}
+
+@INPROCEEDINGS{ESC-SVSF,
+  author = {Winfried Stephan and Solveig Richter and Markus M\"uller},
+  title = {Aspects of Secure Vehicle Software Flashing},
+  booktitle = {Embedded Security in Cars},
+  year = {2006},
+  publisher = {Springer}
+}
+
+@BOOK{Sw:CTCGT,
+  title = {{Classical Topology and Combinatorial Group Theory}},
+  publisher = {Springer-Verlag},
+  year = {1980},
+  author = {John Stillwell},
+  volume = {72},
+  series = {Graduate Texts in Mathematics}
+}
+
+@ARTICLE{Suzuki2007,
+  author = {Daisuke Suzuki and Minoru Saeki and Tetsuya Ichikawa},
+  title = {Random Switching Logic: A New Countermeasure against DPA and Second-Order
+	DPA at the Logic Level},
+  journal = {IEICE Trans. Fundam. Electron. Commun. Comput. Sci.},
+  year = {2007},
+  volume = {E90-A},
+  pages = {160--168},
+  number = {1},
+  address = {Oxford, UK},
+  doi = {http://dx.doi.org/10.1093/ietfec/e90-a.1.160},
+  file = {Random Switching Logic A New Countermeasure against DPA and Second-Order
+	DPA at the Logic Level.pdf:D\:\\035_Papers\\Crypto\\Random Switching
+	Logic A New Countermeasure against DPA and Second-Order DPA at the
+	Logic Level.pdf:PDF},
+  issn = {0916-8508},
+  publisher = {Oxford University Press}
+}
+
+@BOOK{Th:TGT,
+  title = {Three-Dimensional Geometry and Topology},
+  publisher = {Princeton University Press},
+  year = {1997},
+  author = {William P. Thurston}
+}
+
+@ARTICLE{TiriV06,
+  author = {Kris Tiri and Ingrid Verbauwhede},
+  title = {A digital design flow for secure integrated circuits.},
+  journal = {IEEE Trans. on CAD of Integrated Circuits and Systems},
+  year = {2006},
+  volume = {25},
+  pages = {1197-1208},
+  number = {7},
+  date = {2006-11-16},
+  description = {dblp},
+  ee = {http://doi.ieeecomputersociety.org/10.1109/TCAD.2005.855939},
+  file = {A Digital Design Flow for Secure Integrated Circuits.pdf:D\:\\035_Papers\\Crypto\\A
+	Digital Design Flow for Secure Integrated Circuits.pdf:PDF},
+  keywords = {dblp },
+  url = {http://dblp.uni-trier.de/db/journals/tcad/tcad25.html#TiriV06}
+}
+
+@MASTERSTHESIS{DATraub,
+  author = {Matthias Traub},
+  title = {{Evaluierung von Gateway-Architekturen für Netzwerke im Kraftfahrzeug
+	und Implementierung eines FPGA-basierten CAN-FlexRay-Gateways}},
+  school = {Universität Karlsruhe - Institut für Technik der Informationsverarbeitung},
+  year = {2007},
+  owner = {klimm},
+  timestamp = {2008.11.26}
+}
+
+@MISC{ta7s0422gc,
+  author = {Triscend},
+  title = {Triscend A7S Configurable System-on-Chip Platform, Product Description},
+  month = {August},
+  year = {2002},
+  file = {:D\:\\030_Dokumentationen\\Triscend\\ta7s0433gc.pdf:PDF},
+  owner = {klimm}
+}
+
+@MISC{TCG_MTMSpec_1.0,
+  author = {{Trusted Computing Group}},
+  title = {{TCG} Mobile Trusted Module v1.0},
+  howpublished = {Available electronically at \url{https://www.trustedcomputinggroup.org/specs/mobilephone/Revision_6-tcg-mobile-trusted-module-1_0.pdf}},
+  year = {2008},
+  owner = {Klimm},
+  url = {www.trustedcomputinggroup.org/specs/mobilephone/Revision_6-tcg-mobile-trusted-module-1_0.pdf}
+}
+
+@MISC{TCG_TNC_1.0,
+  author = {{Trusted Computing Group}},
+  title = {{TCG} Trusted Network Connect},
+  howpublished = {Available electronically at \url{https://www.trustedcomputinggroup.org}},
+  year = {2008},
+  owner = {Klimm},
+  url = {https://www.trustedcomputinggroup.org/groups/network/TNC_Architecture_v1_0_r4.pdf}
+}
+
+@MISC{TCG_Spec_Architecture_OV,
+  author = {{Trusted Computing Group}},
+  title = {{TCG} Specification Architecture Overview - Rev. 1.4},
+  howpublished = {Available electronically at \url{www.trustedcomputinggroup.org}},
+  year = {2007},
+  owner = {glas},
+  url = {www.trustedcomputinggroup.org}
+}
+
+@MISC{TCG_MSpec_1.2,
+  author = {{Trusted Computing Group}},
+  title = {{TPM} Main Specification v1.2},
+  howpublished = {Available electronically at \url{www.trustedcomputinggroup.org}},
+  year = {2003},
+  owner = {klimm},
+  timestamp = {2007.08.21},
+  url = {www.trustedcomputinggroup.org}
+}
+
+@MISC{TCG_MSpec_1.2_Design,
+  author = {{Trusted Computing Group}},
+  title = {{TPM} Main Specification v1.2 - Part 1 Design Principles},
+  howpublished = {Available electronically at \url{www.trustedcomputinggroup.org}},
+  year = {2003},
+  owner = {glas},
+  timestamp = {2007.08.21},
+  url = {www.trustedcomputinggroup.org}
+}
+
+@MISC{TCPA_MSpec_1.1b,
+  author = {{Trusted Computing Group}},
+  title = {Trusted Computing Platform Alliance Main Specification Version 1.1b},
+  howpublished = {Available electronically at \url{www.trustedcomputinggroup.org}},
+  year = {2003},
+  file = {TCPA_Main_TCG_Architecture_v1_1b.pdf:D\:\\Literatur\\Trusted Computing\\TCG\\Specifications\\TCPA_Main_TCG_Architecture_v1_1b.pdf:PDF;TCPA_Main_TCG_Architecture_v1_1b.pdf:D\:\\Literatur\\Trusted
+	Computing\\TCG\\Specifications\\TCPA_Main_TCG_Architecture_v1_1b.pdf:PDF},
+  owner = {glas},
+  timestamp = {2007.08.02},
+  url = {http://www.trustedcomputinggroup.org}
+}
+
+@ARTICLE{Ullmann2004,
+  author = {Michael Ullmann and Michael Hubner and Grimm Grimm and J\"urgen Becker},
+  title = {An FPGA Run-Time System for Dynamical On-Demand Reconfiguration},
+  journal = {ipdps},
+  year = {2004},
+  volume = {04},
+  pages = {135a},
+  address = {Los Alamitos, CA, USA},
+  doi = {http://doi.ieeecomputersociety.org/10.1109/IPDPS.2004.1303106},
+  file = {An FPGA Run-Time System for Dynamical On-Demand Reconfiguration.pdf:D\:\\035_Papers\\ITIV\\An
+	FPGA Run-Time System for Dynamical On-Demand Reconfiguration.pdf:PDF},
+  isbn = {0-7695-2132-0},
+  publisher = {IEEE Computer Society}
+}
+
+@MISC{validas,
+  author = {Validas},
+  title = {Erfahrungsbericht Verifikationstechniken},
+  year = {2005},
+  note = {available electronically at \url{http://www.software-kompetenz.de/servlet/is/29286/Verifikationstechniken_2005.pdf?command=downloadContent&filename=Verifikationstechniken_2005.pdf}},
+  owner = {klimm}
+}
+
+@ARTICLE{10.1109/AHS.2006.54,
+  author = {Tanya Vladimirova and Xiaofeng Wu},
+  title = {On-Board Partial Run-Time Reconfiguration for Pico-Satellite Constellations},
+  journal = {Adaptive Hardware and Systems, NASA/ESA Conference on},
+  year = {2006},
+  volume = {0},
+  pages = {262-269},
+  address = {Los Alamitos, CA, USA},
+  doi = {http://doi.ieeecomputersociety.org/10.1109/AHS.2006.54},
+  isbn = {0-7695-2614-4},
+  publisher = {IEEE Computer Society}
+}
+
+@MISC{Wa:CHF,
+  author = {Xiaoyun Wang and Dengguo Feng and Xuejia Lai and Hongbo Yu},
+  title = {Collisions for hash functions \textsf{MD4, MD5, HAVAL-128, RIPEMD}},
+  year = {2004},
+  note = {IACR Cryptology ePrint Archive 2004/199. Elektronisch verf\"ugbar
+	unter \url{http://eprint.iacr.org}}
+}
+
+@INPROCEEDINGS{LCA-CONF-2008-042,
+  author = {Wegener, Axel and Piorkowski, Michal and Raya, Maxim and Hellbr\"uck,
+	Horst and Fischer, Stefan and Hubaux, Jean-Pierre},
+  title = {Tra{CI}: {A}n {I}nterface for {C}oupling {R}oad {T}raffic and {N}etwork
+	{S}imulators},
+  booktitle = {11{t}h {C}ommunications and {N}etworking {S}imulation {S}ymposium
+	({CNS}'08)},
+  year = {2008},
+  series = { },
+  address = { },
+  publisher = { },
+  abstract = {Vehicular Ad-Hoc Networks (VANETs) enable communication among vehicles
+	as well as between vehicles and roadside infrastructures. Currently
+	available software tools for VANET research still lack the ability
+	to asses the usability of vehicular applications. In this article,
+	we present Traffic Control Interface (TraCI) a technique for interlinking
+	road traffic and network simulators. It permits us to control the
+	behavior of vehicles during simulation runtime, and consequently
+	to better understand the influence of VANET applications on traffic
+	patterns. In contrast to the existing approaches, i.e., generating
+	mobility traces that are fed to a network simulator as static input
+	files, the online coupling allows the adaptation of drivers' behavior
+	during simulation runtime. This technique is not limited to a special
+	traffic simulator or to a special network simulator. We introduce
+	a general framework for controlling the mobility which is adaptable
+	towards other research areas. We describe the basic concept, design
+	decisions and the message format of this open-source architecture.
+	Additionally, we provide implementations for non-commercial traffic
+	and network simulators namely SUMO and ns2, respectively. This coupling
+	enables for the first time systematic evaluations of VANET applications
+	in realistic settings.},
+  affiliation = {EPFL},
+  details = {http://infoscience.epfl.ch/record/115106},
+  keywords = {Vehicular Ad-Hoc Networks (VANETs); Network Simulation ; Node Mobility},
+  location = {Ottawa, Canada},
+  oai-id = {oai:infoscience.epfl.ch:115106},
+  oai-set = {conf},
+  review = {REVIEWED},
+  status = {PUBLISHED},
+  unit = {LCA},
+  url = {http://www.scs.org/confernc/springsim/springsim08/cfp/cns08.htm, http://doi.acm.org/10.1145/1400713.1400740}
+}
+
+@CONFERENCE{CE4A-VDI07,
+  author = {D. Weyl and A. Hanke and J.-P. Dietz and R. Freitag},
+  title = {CE4A - Consumer Electronics for Automotive},
+  booktitle = {Electronic Systems for Vehicles},
+  year = {2007},
+  number = {2000},
+  series = {VDI-Berichte},
+  pages = {367-378},
+  organization = {VDI},
+  publisher = {Verein Deutscher Ingenieure},
+  owner = {glas},
+  timestamp = {2007.10.17}
+}
+
+@INPROCEEDINGS{NoC:BlessingOrNightmare,
+  author = {Paul Wielage and Kees Goossens},
+  title = {Networks on Silicon: Blessing or Nightmare?},
+  booktitle = {Proceedings of the Euromicro Symposium on Digital System Design (DSD'02)},
+  year = {2002},
+  publisher = {IEEE}
+}
+
+@PHDTHESIS{WollingerPhD2004,
+  author = {Thomas Wollinger},
+  title = {Software and Hardware Implementation of Hyperelliptic Curve Cryptosystems},
+  school = {Ruhr-Univ. Bochum},
+  year = {2004},
+  file = {wollinger_phd_sw_and_hw_implemenation_of_hecc.pdf:D\:\\035_Papers\\Crypto\\wollinger_phd_sw_and_hw_implemenation_of_hecc.pdf:PDF},
+  owner = {klimm},
+  timestamp = {2008.06.09}
+}
+
+@MASTERSTHESIS{Wollinger-Thesis-2001,
+  author = {Thomas Wollinger},
+  title = {Computer Architectures for Cryptosystems Based on Hyperelliptic Curves},
+  school = {Worcester Polytechnic Institute (MA)},
+  year = {2001},
+  type = {Masterthesis},
+  month = {April},
+  owner = {klimm},
+  timestamp = {2007.11.26}
+}
+
+@ARTICLE{1015052,
+  author = {Wollinger,, Thomas and Guajardo,, Jorge and Paar,, Christof},
+  title = {Security on FPGAs: State-of-the-art implementations and attacks},
+  journal = {Trans. on Embedded Computing Sys.},
+  year = {2004},
+  volume = {3},
+  pages = {534--574},
+  number = {3},
+  abstract = {In the last decade, it has become aparent that embedded systems are
+	integral parts of our every
+	
+	day lives. The wireless nature of many embedded applications as well
+	as their omnipresence has
+	
+	made the need for security and privacy preserving mechanisms particularly
+	important. Thus, as
+	
+	FPGAs become integral parts of embedded systems, it is imperative
+	to consider their security as
+	
+	a whole. This contribution provides a state-of-the-art description
+	of security issues on FPGAs,
+	
+	both from the system and implementation perspectives. We discuss the
+	advantages of reconfigurable
+	
+	hardware for cryptographic applications, show potential security problems
+	of FPGAs, and
+	
+	provide a list of open research problems. Moreover, we summarize both
+	public and symmetric-key
+	
+	algorithm implementations on FPGAs.
+	
+	
+	Comment: Main Focus lies on Bitstream Attack and symmetric Crypto},
+  address = {New York, NY, USA},
+  doi = {http://doi.acm.org/10.1145/1015047.1015052},
+  file = {Paper:D\:\\035_Papers\\Crypto\\SideChannelResistance\\Wollingeretal_ACMTransEmbeddedSysFPGACryptoOverview.pdf:PDF},
+  issn = {1539-9087},
+  owner = {klimm},
+  publisher = {ACM}
+}
+
+@MISC{wollinger-hardware,
+  author = {T. Wollinger and C. Paar},
+  title = {Hardware Architectures proposed for Cryptosystems Based on Hyperelliptic
+	Curves},
+  text = {T. Wollinger and C. Paar. Hardware Architectures proposed for Cryptosystems
+	Based on Hyperelliptic Curves. In Proceedings of the 9th IEEE International
+	Conference on Electronics, Circuits and Systems - ICECS},
+  url = {citeseer.ist.psu.edu/wollinger02hardware.html}
+}
+
+@ARTICLE{Wollinger04ellipticand,
+  author = {Thomas Wollinger and Jan Pelzl and Volker Wittelsberger and Christof
+	Paar and Gökay Saldamli and Çetin K. Koç},
+  title = {Elliptic and hyperelliptic curves on embedded µP},
+  journal = {ACM TRANSACTIONS ON EMBEDDED COMPUTING SYSTEMS},
+  year = {2004},
+  volume = {3},
+  pages = {509--533},
+  number = {3},
+  file = {:D\:\\035_Papers\\Crypto\\Elliptic and hyperelliptic curves on embedded
+	uP.pdf:PDF}
+}
+
+@MISC{DS099,
+  author = {Xilinx},
+  title = {Spartan-3 FPGA Family Complete Data Sheet DS099},
+  month = {April},
+  year = {2006},
+  owner = {klimm},
+  timestamp = {2007.09.05},
+  url = {http://www.xilinx.com/bvdocs/publications/ds099.pdf}
+}
+
+@MISC{DS-virtex2pro,
+  author = {Xilinx},
+  title = {Virtex-II Pro(tm) platform FPGA user guide},
+  year = {2004},
+  journal = {Document UG012},
+  owner = {klimm},
+  url = {http://www.xilinx.com/bvdocs/userguides/ug012.pdf}
+}
+
+@MISC{mb-ref-guide,
+  author = {Xilinx},
+  title = {MicroBlaze(tm) Hardware Reference Guide},
+  year = {2002},
+  file = {MicroBlaze Hardware Reference Guide - hwref.pdf:D\:\\Dokumentationen\\Xilinx\\MicroBlaze\\MicroBlaze
+	Hardware Reference Guide - hwref.pdf:PDF},
+  journal = {Document UG081},
+  owner = {klimm},
+  timestamp = {2007.11.26},
+  url = {http://www.xilinx.com/ise/embedded/mb_ref_guide.pdf}
+}
+
+@MISC{mb-sw-ref,
+  author = {Xilinx},
+  title = {MicroBlaze(tm) Software Reference Guide},
+  year = {2002},
+  owner = {klimm},
+  timestamp = {2007.11.26},
+  url = {www.xilinx.com/ipcenter/processor_central/microblaze/doc/swref.pdf}
+}
+
+@MISC{Xil-XPower-Man,
+  author = {{Xilinx Inc.}},
+  title = {XPower Manual},
+  owner = {klimm},
+  timestamp = {2008.11.27},
+  url = {http://www.xilinx.com/products/design_tools/logic_design/verification/xpower.htm}
+}
+
+@MISC{Digi-S3E_Board,
+  author = {{Xilinx Inc.}},
+  title = {{Spartan-3E Starter Kit Board User Guide, UG230 (v1.0) }},
+  year = {March 9, 2006},
+  owner = {klimm},
+  timestamp = {2008.11.27},
+  url = {http://www.digilentinc.com/Data/Products/S3EBOARD/S3EStarter_ug230.pdf}
+}
+
+@MISC{WP267,
+  author = {{Xilinx Inc.}},
+  title = {{Advanced Security Schemes for Spartan-3A/3AN/3A DSP FPGAs}},
+  year = {2007},
+  journal = {Document WP267 (v1.0)}
+}
+
+@MISC{DS-UG191,
+  author = {{Xilinx}},
+  title = {Virtex-5 Configuration user guide},
+  year = {2009},
+  journal = {Document UG191 (v3.8)},
+  owner = {klimm},
+  url = {http://www.xilinx.com/support/documentation/user_guides/ug191.pdf}
+}
+
+@MISC{DS-UG332,
+  author = {{Xilinx}},
+  title = {Spartan-3 Generation Configuration User Guide},
+  year = {2009},
+  journal = {Document UG332 (v1.5)},
+  owner = {klimm},
+  url = {http://china.xilinx.com/support/documentation/user_guides/ug360.pdf}
+}
+
+@MISC{DS-UG360,
+  author = {{Xilinx}},
+  title = {Virtex-6 FPGA Configuration User Guide},
+  year = {2009},
+  journal = {Document UG360 (v1.0)},
+  owner = {klimm},
+  url = {http://china.xilinx.com/support/documentation/user_guides/ug360.pdf}
+}
+
+@MISC{DS-UG070,
+  author = {{Xilinx}},
+  title = {Virtex-4 User Guide},
+  year = {2007},
+  journal = {Document UG070 (v2.3)},
+  owner = {klimm},
+  url = {http://www.xilinx.com/support/documentation/user_guides/ug07.pdf}
+}
+
+@MISC{XDL-UG,
+  author = {{Xilinx}},
+  title = {XILINX DESIGN LANGUAGE },
+  year = {2000},
+  journal = {v1.6},
+  owner = {klimm}
+}
+
+@MISC{Yadgar02parallelsat,
+  author = {A Yadgar},
+  title = {Parallel SAT Solving for Model Checking. www.cs.technion.ac.il/~yadgar/Research/research.pdf},
+  year = {2002},
+  owner = {klimm}
+}
+
+@INPROCEEDINGS{PS:ISSS07,
+  author = {Pengyuan Yu and Patrick Schaumont},
+  title = {Secure FPGA circuits using controlled placement and routing},
+  booktitle = {CODES+ISSS '07: Proceedings of the 5th IEEE/ACM international conference
+	on Hardware/software codesign and system synthesis},
+  year = {2007},
+  pages = {45--50},
+  address = {New York, NY, USA},
+  publisher = {ACM},
+  doi = {http://doi.acm.org/10.1145/1289816.1289831},
+  file = {secure FPGA circuits using controlled placement and routing.pdf:D\:\\035_Papers\\Crypto\\FPGA\\secure
+	FPGA circuits using controlled placement and routing.pdf:PDF},
+  isbn = {978-1-59593-824-4},
+  location = {Salzburg, Austria},
+  owner = {klimm}
+}
+
+@ARTICLE{Yuan-IP-Protection06,
+  author = {Lin Yuan and Gang Qu and Lahouari Ghout and Ahmed Bouridane},
+  title = {VLSI Design IP Protection: Solutions, New Challenges, and Opportunities},
+  journal = {ahs},
+  year = {2006},
+  volume = {0},
+  pages = {469-476},
+  address = {Los Alamitos, CA, USA},
+  doi = {http://doi.ieeecomputersociety.org/10.1109/AHS.2006.77},
+  isbn = {0-7695-2614-4},
+  publisher = {IEEE Computer Society}
+}
+
+@ARTICLE{twodozenNoCBus,
+  author = {Zeferino, C.A. and Kreutz, M.E. and Carro, L. and Susin, A.A.},
+  title = {A study on communication issues for systems-on-chip},
+  journal = {Integrated Circuits and Systems Design, 2002. Proceedings. 15th Symposium
+	on},
+  year = {2002},
+  pages = { 121-126},
+  doi = {10.1109/SBCCI.2002.1137647}
+}
+
+@INPROCEEDINGS{Oers03power-analysisattacks,
+  author = {Siddika Berna Örs and Elisabeth Oswald and Bart Preneel},
+  title = {Power-analysis attacks on an FPGA — first experimental results},
+  booktitle = {Proceedings of Workshop on Cryptographic Hardware and Embedded Systems
+	(CHES 2003), Lecture Notes in Computer Science Volume 2779},
+  year = {2003},
+  pages = {35--50},
+  publisher = {Springer-Verlag},
+  file = {Paper:D\:\\035_Papers\\Crypto\\SideChannelResistance\\Power-analysis
+	attacks on an FPGA_ First experimental results.pdf:PDF},
+  owner = {klimm}
+}
+
+@PROCEEDINGS{DBLP:conf/arcs/2008,
+  title = {Architecture of Computing Systems - ARCS 2008, 21st International
+	Conference, Dresden, Germany, February 25-28, 2008, Proceedings},
+  year = {2008},
+  editor = {Uwe Brinkschulte and Theo Ungerer and Christian Hochberger and Rainer
+	G. Spallek},
+  volume = {4934},
+  series = {Lecture Notes in Computer Science},
+  publisher = {Springer},
+  bibsource = {DBLP, http://dblp.uni-trier.de},
+  booktitle = {ARCS},
+  isbn = {978-3-540-78152-3}
+}
+
+@BOOK{2005-cohen-ehcc,
+  title = {{Handbook of elliptic and hyperelliptic curve cryptography}},
+  publisher = {CRC Press},
+  year = {2005},
+  editor = {Henri Cohen and Gerhard Frey},
+  booktitle = {{Handbook of elliptic and hyperelliptic curve cryptography}},
+  isbn = {1--58488--518--1},
+  owner = {klimm}
+}
+
+@PROCEEDINGS{conf/trust/2008,
+  title = {Trusted Computing - Challenges and Applications, First International
+	Conference on Trusted Computing and Trust in Information Technologies,
+	Trust 2008, Villach, Austria, March 11-12, 2008, Proceedings},
+  year = {2008},
+  editor = {Peter Lipp and Ahmad-Reza Sadeghi and Klaus-Michael Koch},
+  volume = {4968},
+  series = {Lecture Notes in Computer Science},
+  publisher = {Springer},
+  bibsource = {DBLP, http://dblp.uni-trier.de},
+  booktitle = {TRUST},
+  isbn = {978-3-540-68978-2}
+}
+
+@PROCEEDINGS{DBLP:conf/aspdac/2005,
+  title = {Proceedings of the 2005 Conference on Asia South Pacific Design Automation,
+	ASP-DAC 2005, Shanghai, China, January 18-21, 2005},
+  year = {2005},
+  editor = {Ting-Ao Tang},
+  publisher = {ACM Press},
+  bibsource = {DBLP, http://dblp.uni-trier.de},
+  booktitle = {ASP-DAC},
+  isbn = {0-7803-8737-6}
+}
+
+@BOOK{KFZElektronik2006,
+  title = {{Handbuch Kraftfahrzeugelektronik: Grundlagen, Komponenten, Systeme,
+	Anwendungen}},
+  publisher = {Vieweg},
+  year = {2006},
+  editor = {Henning Wallentowitz and Konrad Reif},
+  address = {Wiesbaden},
+  abstract = {In den letzten drei Jahrzehnten ist der Anteil der Elektronik in Kraftfahrzeugen
+	dramatisch gestiegen. Die Anteile werden immer größer und der Trend
+	hält, getrieben von steigenden Kunden- und Umweltanforderungen ungebremst
+	an. Nahezu alle Funktionen des Fahrzeugs werden heute elektronisch
+	gesteuert, geregelt oder überwacht. Bislang fehlte ein fachlich fundierter
+	und vollständiger Überblick. Diese Lücke schließt nun das Handbuch
+	Kraftfahrzeugelektronik und zeigt einen umfassenden Querschnitt der
+	heute in Fahrzeugen eingesetzten Elektronik.},
+  file = {Amazon Search inside:http\://www.amazon.de/gp/reader/352803971X/:URL},
+  isbn = {3-528-03971-X},
+  keywords = {assist book data device embedded engineering interaction multimedia
+	sensor software traffic user v0805 },
+  owner = {flint},
+  timestamp = {2008.01.20}
+}
+
+@MISC{PKCS1,
+  title = {{RSA Laboratories Inc: RSA Cryptograpy Standard PKCS No.1}},
+  note = {Elektronisch verf\"ugbar unter \url{http://www.rsasecurity.com/rsalabs}},
+  key = {PKCS1}
+}
+
+@MANUAL{Stratix2-DeviceHB,
+  title = {Stratix II Device Handbook},
+  owner = {klimm},
+  timestamp = {2008.11.26}
+}
+
+@MISC{winavr,
+  title = {WinAVR Compiler suite},
+  howpublished = {\url{http://winavr.sourceforge.net/}},
+  key = {WAVR}
+}
+
+@PROCEEDINGS{DBLP:conf/sasp/2009,
+  title = {Proceedings of the IEEE 7th Symposium on Application Specific Processors,
+	SASP 2009, San Francisco, CA, USA , July 27-28, 2009},
+  year = {2009},
+  publisher = {IEEE Computer Society},
+  bibsource = {DBLP, http://dblp.uni-trier.de},
+  booktitle = {SASP},
+  isbn = {978-1-4244-4939-2}
+}
+
+@PROCEEDINGS{DBLP:conf/date/2008,
+  title = {Design, Automation and Test in Europe, DATE 2008, Munich, Germany,
+	March 10-14, 2008},
+  year = {2008},
+  publisher = {IEEE},
+  bibsource = {DBLP, http://dblp.uni-trier.de},
+  booktitle = {DATE},
+  isbn = {978-3-9810801-3-1}
+}
+
+@MISC{OpenTC:ExSum1st,
+  title = {OpenTC: Executive summary of the first project year},
+  howpublished = {available electronically at \url{www.opentc.net}},
+  year = {2007},
+  owner = {glas},
+  timestamp = {2007.08.30}
+}
+
+@MANUAL{HIS-SecClass,
+  title = {HIS Security Module Specification v1.1},
+  organization = {{Herstellerinitiative Software (HIS)}},
+  year = {2006},
+  note = {available electronically at \url{www.automotive-his.de}}
+}
+
+@MANUAL{Inf_TPM_Manual,
+  title = {{SLB 9635 TT 1.2 Databook, v1.1}},
+  organization = {{Infineon}},
+  year = {2006},
+  url = {www.infinion.com}
+}
+
+@MANUAL{HIS-Pres0405,
+  title = {HIS-Presentation 2004-05},
+  organization = {{Herstellerinitiative Software (HIS)}},
+  year = {2005},
+  note = {available electronically at \url{www.automotive-his.de}}
+}
+
+@MISC{NIST:SHA1,
+  title = {{National Institute of Standards and Technology (NIST): FIPS-180-2,
+	Secure Hash Standard (SHS)}},
+  year = {2002},
+  note = {Elektronisch verf\"ugbar unter \url{http://www.itl.nist.gov/fipspubs/}},
+  key = {FIPS02}
+}
+
+@MISC{NIST:AES,
+  title = {{National Institute of Standards and Technology (NIST): FIPS-197,
+	Advanced Encryption Standard (AES)}},
+  year = {2001},
+  note = {Elektronisch verf\"ugbar unter \url{http://www.itl.nist.gov/fipspubs/}},
+  key = {FIPS}
+}
+
+@MISC{NIST:DES,
+  title = {{National Institute of Standards and Technology (NIST): FIPS-46,
+	Data Encryption Standard (DES)}},
+  year = {1976},
+  note = {Elektronisch verf\"ugbar unter \url{http://www.itl.nist.gov/fipspubs/}},
+  key = {FIPS}
+}
+
+@comment{jabref-meta: selector_conference name:}
+
+@comment{jabref-meta: selector_publisher:}
+
+@comment{jabref-meta: selector_author:}
+
+@comment{jabref-meta: selector_journal:}
+
+@comment{jabref-meta: selector_keywords:}
+

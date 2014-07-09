@@ -1,0 +1,53 @@
+
+%% Titelseite
+%% Vorlage $Id: titelseite.tex 54 2009-12-10 12:23:58Z bless $
+
+\def\usesf{}
+\let\usesf\sffamily % diese Zeile auskommentieren für normalen TeX Font
+
+
+
+\begin{titlepage}
+\setlength{\unitlength}{1pt}
+\begin{picture}(0,0)(105,760)
+\includegraphics[width=\paperwidth]{03_images/KIT_Deckblatt}
+\end{picture}
+
+\thispagestyle{empty}
+
+%\begin{titlepage}
+%%\let\footnotesize\small \let\footnoterule\relax
+\begin{center}
+\hbox{}
+\vfill
+{\usesf
+{\huge\bfseries \titelderarbeit \par}
+\vskip 1.8cm
+Diplomarbeit\\
+von\\[2mm]
+\vskip 1cm
+
+{\large\bfseries \diplomandprefix\ \diplomand\\}
+\vskip 1.2cm
+am Institut für Technik der Informationsverarbeitung (ITIV)\\
+der Fakultät für Elektrotechnik\\
+%Universität Karlsruhe (TH)\\[2ex]
+\vskip 3cm
+\begin{tabular}{p{5.5cm}l}
+Erstgutachter: & \Erstgutachter \\
+Zweitgutachter: & \Zweitgutachter \\
+Betreuende~Mitarbeiterin: & \betreuerA \\
+\end{tabular}
+\vskip 3cm
+Bearbeitungszeit:\qquad \anfang -- \abgabe
+}
+\end{center}
+\vfill
+\end{titlepage}
+%% Titelseite Ende
+
+
+%%% Local Variables: 
+%%% mode: latex
+%%% TeX-master: "diplarb"
+%%% End: 
